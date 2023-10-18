@@ -1,0 +1,2135 @@
+[2023.10.7 21:53:23] Launched version: 4008003, install beta: [TRUE], alpha: 0, debug mode: [TRUE]
+[2023.10.7 21:53:23] Executable dir: U:/Telegram/, name: Telegram.exe
+[2023.10.7 21:53:23] Initial working dir: U:/Telegram/
+[2023.10.7 21:53:23] Working dir: U:/Telegram/
+[2023.10.7 21:53:23] Command line: U:\Telegram\Telegram.exe
+[2023.10.7 21:53:23] Executable path before check: U:/Telegram/Telegram.exe
+[2023.10.7 21:53:23] Logs started
+[2023.10.7 21:53:23] Connecting local socket to Global\c2764e6f12b4016e432fe963325d797e-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2023.10.7 21:53:23] This is the only instance of Telegram, starting server and app...
+[2023.10.7 21:53:23] Moved logging from 'U:/Telegram/log_start0.txt' to 'X:/Telegram/log.txt'!
+[2023.10.7 21:53:23] Global devicePixelRatio: 1
+[2023.10.7 21:53:23] QT_DPI_ADJUSTMENT_POLICY: AdjustDpi
+[2023.10.7 21:53:23] Primary screen DPI: 96, Base: 96.
+[2023.10.7 21:53:23] Computed screen scale: 100
+[2023.10.7 21:53:23] DevicePixelRatio: 1
+[2023.10.7 21:53:23] ScreenScale: 100
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2023.10.7 21:53:24] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2023.10.7 21:53:24] Using DirectX compiler 'D:\Telegram\modules\x64\d3d\d3dcompiler_47.dll'.
+[2023.10.7 21:53:24] Checking...
+[2023.10.7 21:53:24] Checking T:\Users\POSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\.
+[2023.10.7 21:53:24] Checking T\Users\OPSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\..
+[2023.10.7 21:53:24] Checking T:\Users\POSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\desktop.ini
+[2023.10.7 21:53:25] Checking T:\Users\POSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\File Explorer.lnk
+[2023.10.7 21:53:25] Checking T:\Users\POSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\Google Chrome.lnk
+[2023.10.7 21:53:25] Checking T:\Users\POSKY\AppData\Roaming\Microsoft\Scale\Quick Launch\User Pinned\TaskBar\Microsoft Edge.lnk
+[2023.10.7 21:53:25] OpenAL Logging Level: (not set)
+[2023.10.7 21:53:25] Audio Playback Devices: OpenAL Soft on 1 - B22T-7 LED PG (AMD High Definition Audio Device)
+[2023.10.7 21:53:25] Audio Playback Default Device: OpenAL Soft on 1 - B22T-7 LED PG (AMD High Definition Audio Device)
+[2023.10.7 21:53:25] Audio Capture Devices: OpenAL Soft on Microphone (High Definition Audio Device)
+[2023.10.7 21:53:25] Audio Capture Default Device: OpenAL Soft on Microphone (High Definition Audio Device)
+[2023.10.7 21:53:27] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2023.10.7 21:53:27] OpenGL Profile: OpenGLES.
+[2023.10.7 21:53:27] OpenGL Renderer: ANGLE (AMD, AMD Radeon RX 6600 Direct3D11 vs_5_0 ps_5_0, D3D11-31.0.14057.5006)
+[2023.10.7 21:53:27] OpenGL Vendor: Google Inc. (AMD)
+[2023.10.7 21:53:27] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.7 git hash: 0bb011f9e403)
+[2023.10.7 21:53:27] OpenGL Extensions: GL_EXT_texture_compression_dxt1, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_ANGLE_texture_usage, GL_EXT_blend_func_extended, GL_EXT_shader_texture_lod, GL_OES_vertex_array_object, GL_EXT_texture_filter_anisotropic, GL_EXT_color_buffer_float, GL_EXT_blend_minmax, GL_ANGLE_copy_texture_3d, GL_OES_compressed_ETC2_RGB8_texture, GL_OES_texture_half_float, GL_KHR_parallel_shader_compile, GL_EXT_debug_marker, GL_EXT_debug_label, GL_EXT_discard_framebuffer, GL_OES_compressed_ETC2_sRGB8_texture, GL_OES_packed_depth_stencil, GL_ANGLE_instanced_arrays, GL_EXT_instanced_arrays, GL_CHROMIUM_copy_compressed_texture, GL_OES_depth32, GL_EXT_texture_compression_rgtc, GL_EXT_multisampled_render_to_texture, GL_OES_mapbuffer, GL_ANGLE_base_vertex_base_instance, GL_OES_compressed_EAC_R11_unsigned_texture, GL_ANGLE_explicit_context, GL_EXT_read_format_bgra, GL_ANGLE_request_extension, GL_OES_EGL_image_external_essl3, GL_ANGLE_multiview_multisample, GL_OES_texture_half_float_linear, GL_EXT_texture_norm16, GL_OVR_multiview2, GL_OES_texture_float, GL_OES_rgb8_rgba8, GL_ANGLE_framebuffer_blit, GL_OES_standard_derivatives, GL_WEBGL_video_texture, GL_ANGLE_texture_compression_dxt5, GL_ANGLE_framebuffer_multisample, GL_CHROMIUM_bind_uniform_location, GL_ANGLE_get_tex_level_parameter, GL_NV_EGL_stream_consumer_external, GL_OVR_multiview, GL_OES_draw_elements_base_vertex, GL_ANGLE_lossy_etc_decode, GL_EXT_color_buffer_half_float, GL_EXT_draw_buffers_indexed, GL_EXT_texture_compression_bptc, GL_OES_fbo_render_mipmap, GL_OES_texture_npot, GL_ANGLE_translated_shader_source, GL_OES_EGL_image_external, GL_ANGLE_client_arrays, GL_EXT_unpack_subimage, GL_OES_EGL_image, GL_OES_texture_float_linear, GL_NV_pixel_buffer_object, GL_OES_depth24, GL_EXT_sRGB, GL_EXT_EGL_image_external_wrap_modes, GL_CHROMIUM_lose_context, GL_EXT_texture_compression_s3tc_srgb, GL_ANGLE_robust_client_memory, GL_ANGLE_provoking_vertex, GL_OES_surfaceless_context, GL_EXT_draw_elements_base_vertex, GL_EXT_disjoint_timer_query, GL_EXT_texture_format_BGRA8888, GL_EXT_texture_storage, GL_EXT_occlusion_query_boolean, GL_ANGLE_explicit_context_gles1, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_ANGLE_texture_multisample, GL_CHROMIUM_bind_generates_resource, GL_ANGLE_get_serialized_context_string, GL_OES_draw_buffers_indexed, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, , GL_OES_element_index_uint, GL_ANGLE_pack_reverse_row_order, GL_ANGLE_program_cache_control, GL_CHROMIUM_copy_texture, GL_EXT_map_buffer_range, GL_OES_compressed_EAC_RG11_signed_texture, GL_KHR_debug, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_OES_compressed_ETC2_RGBA8_texture, GL_OES_get_program_binary, GL_ANGLE_texture_compression_dxt3, GL_EXT_draw_buffers, GL_NV_pack_subimage, GL_ANGLE_multi_draw, GL_EXT_texture_rg, GL_ANGLE_depth_texture, GL_OES_texture_border_clamp, GL_ANGLE_memory_size, GL_EXT_frag_depth, GL_EXT_robustness, GL_CHROMIUM_sync_query, GL_EXT_float_blend, GL_OES_texture_stencil8, GL_NV_fence, GL_OES_compressed_EAC_R11_signed_texture
+[2023.10.7 21:53:27] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_flexible_surface_compatibility, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2023.10.7 21:53:27] OpenGL: QOpenGLContext created, version: 3.3.
+[2023.10.7 21:53:27] OpenGL: [TRUE] (Window)
+[2023.10.7 21:53:27] Update Info: MTP is unavailable.
+[2023.10.7 21:53:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240550385309938724, seq_no = 12
+[2023.10.7 21:53:37] Message Info: bad message notification received, msgId 7240550385309938724, error_code 33
+[2023.10.7 21:55:02] RPC Error: request 15 got fail with code 401, error SESSION_PASSWORD_NEEDED
+[2023.10.7 21:55:09] Export Info: Destroy top bar by controller removal.
+[2023.10.7 21:55:11] App Info: writing encrypted user settings...
+[2023.10.7 21:55:11] RPC Error: request 67 got fail with code 400, error CHANNEL_PRIVATE
+[2023.10.7 21:55:11] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:55:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240550801019420344, seq_no = 200
+[2023.10.7 21:55:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240550801083814676, seq_no = 202
+[2023.10.7 21:55:14] Message Info: bad message notification received, msgId 7240550801083814676, error_code 33
+[2023.10.7 21:55:15] Skipping message, because it is already in blocks!
+[2023.10.7 21:55:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240550818867279528, seq_no = 42
+[2023.10.7 21:55:18] Message Info: bad message notification received, msgId 7240550818867279528, error_code 33
+[2023.10.7 21:55:20] Error: could not locate 'background.jpg' in a zip file.
+[2023.10.7 21:55:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240550844116133696, seq_no = 140
+[2023.10.7 21:55:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240550844117196272, seq_no = 36
+[2023.10.7 21:55:24] Message Info: bad message notification received, msgId 7240550844116133696, error_code 33
+[2023.10.7 21:55:24] Message Info: bad message notification received, msgId 7240550844117196272, error_code 33
+[2023.10.7 21:55:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240550844116320100, seq_no = 91
+[2023.10.7 21:55:24] Message Info: bad message notification received, msgId 7240550844116320100, error_code 33
+[2023.10.7 21:55:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240550844261450128, seq_no = 12
+[2023.10.7 21:55:24] Message Info: bad message notification received, msgId 7240550844261450128, error_code 33
+[2023.10.7 21:55:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240550844267485336, seq_no = 80
+[2023.10.7 21:55:24] Message Info: bad message notification received, msgId 7240550844267485336, error_code 33
+[2023.10.7 21:55:26] Message Info: bad message notification received (error_code 33) for msg_id = 7240550853253125484, seq_no = 38
+[2023.10.7 21:55:26] Message Info: bad message notification received, msgId 7240550853253125484, error_code 33
+[2023.10.7 21:55:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: flag.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: diego garcia.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: bf.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: ascension island.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: slide.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: flag_ac.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: tristan da cunha.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: british indian ocean territory.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: flag_ta.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: st. martin.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: ceuta & melilla.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: bandera.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: personas.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: personas.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: dos personas dándose la mano.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: parque de atracciones.
+[2023.10.7 21:56:06] API Warning: emoji 🇪🇦 is not supported, word: ceuta y melilla.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: diego garcía.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: diego garcía.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: ta.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: parque.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: parque.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: pareja de la mano.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: jugar.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: parque de juegos.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: ac.
+[2023.10.7 21:56:06] API Warning: emoji 🇲🇫 is not supported, word: san martín.
+[2023.10.7 21:56:06] API Warning: emoji 🇹🇦 is not supported, word: tristán de acuña.
+[2023.10.7 21:56:06] API Warning: emoji 🧑‍🤝‍🧑 is not supported, word: pareja neutral.
+[2023.10.7 21:56:06] API Warning: emoji 🇦🇨 is not supported, word: isla de la ascensión.
+[2023.10.7 21:56:06] API Warning: emoji 🇩🇬 is not supported, word: territorio británico del océano índico.
+[2023.10.7 21:56:06] API Warning: emoji 🛝 is not supported, word: tobogán.
+[2023.10.7 21:56:09] RPC Error: request 750 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 21:56:09] Skipping message, because it is already in blocks!
+[2023.10.7 21:56:26] Skipping message, because it is already in blocks!
+[2023.10.7 21:56:27] Skipping message, because it is already in blocks!
+[2023.10.7 21:56:40] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 21:56:42] Audio Info: Closing audio playback device.
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183484813676, seq_no = 576
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183701432668, seq_no = 136
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183700854132, seq_no = 158
+[2023.10.7 21:56:43] Message Info: bad message notification received, msgId 7240551183701432668, error_code 33
+[2023.10.7 21:56:43] Message Info: bad message notification received, msgId 7240551183700854132, error_code 33
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183702728032, seq_no = 116
+[2023.10.7 21:56:43] Message Info: bad message notification received, msgId 7240551183702728032, error_code 33
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183702079060, seq_no = 188
+[2023.10.7 21:56:43] Message Info: bad message notification received, msgId 7240551183702079060, error_code 33
+[2023.10.7 21:56:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240551183700587408, seq_no = 230
+[2023.10.7 21:56:43] Message Info: bad message notification received, msgId 7240551183700587408, error_code 33
+[2023.10.7 21:56:53] Skipping message, because it is already in blocks!
+[2023.10.7 21:56:53] Skipping message, because it is already in blocks!
+[2023.10.7 21:57:03] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:57:11] Skipping message, because it is already in blocks!
+[2023.10.7 21:57:16] Skipping message, because it is already in blocks!
+[2023.10.7 21:57:27] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:57:28] Message Info: bad message notification received (error_code 33) for msg_id = 7240551377371386468, seq_no = 42
+[2023.10.7 21:57:28] Message Info: bad message notification received, msgId 7240551377371386468, error_code 33
+[2023.10.7 21:57:34] RPC Error: request 1528 got fail with code 400, error CHANNEL_PRIVATE
+[2023.10.7 21:57:35] RPC Error: request 1543 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432460475508, seq_no = 12
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432462005428, seq_no = 10
+[2023.10.7 21:57:41] Message Info: bad message notification received, msgId 7240551432462005428, error_code 33
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432460848788, seq_no = 54
+[2023.10.7 21:57:41] Message Info: bad message notification received, msgId 7240551432460848788, error_code 33
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432460769724, seq_no = 14
+[2023.10.7 21:57:41] Message Info: bad message notification received, msgId 7240551432460769724, error_code 33
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432550744136, seq_no = 13
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432460819564, seq_no = 48
+[2023.10.7 21:57:41] Message Info: bad message notification received, msgId 7240551432460819564, error_code 33
+[2023.10.7 21:57:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240551432779809764, seq_no = 15
+[2023.10.7 21:57:41] Message Info: bad message notification received, msgId 7240551432779809764, error_code 33
+[2023.10.7 21:57:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:57:46] RPC Error: request 1851 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551519029844076, seq_no = 72
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551519029844076, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551519030493480, seq_no = 54
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551519031678456, seq_no = 38
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551519030493480, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551519031678456, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551519032891360, seq_no = 14
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551519032891360, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551519032043964, seq_no = 24
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551519032043964, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518803119528, seq_no = 1302
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518844770636, seq_no = 240
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518844770636, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518899182760, seq_no = 88
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518899248916, seq_no = 130
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518899182760, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518899248916, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518901734424, seq_no = 122
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518901734424, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518899604116, seq_no = 72
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518899604116, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518900023312, seq_no = 62
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518900023312, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518900796408, seq_no = 150
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518900796408, error_code 33
+[2023.10.7 21:58:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240551518902794420, seq_no = 100
+[2023.10.7 21:58:01] Message Info: bad message notification received, msgId 7240551518902794420, error_code 33
+[2023.10.7 21:58:02] Message Info: bad message notification received (error_code 33) for msg_id = 7240551520565225412, seq_no = 1303
+[2023.10.7 21:58:02] Message Info: bad message notification received, msgId 7240551520565225412, error_code 33
+[2023.10.7 21:58:17] Skipping message, because it is already in blocks!
+[2023.10.7 21:58:48] Skipping message, because it is already in blocks!
+[2023.10.7 21:58:52] RPC Error: request 2382 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 21:58:55] RPC Error: request 2463 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 21:58:57] Skipping message, because it is already in blocks!
+[2023.10.7 21:59:02] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:16] Message Info: bad message notification received (error_code 33) for msg_id = 7240551840490935128, seq_no = 590
+[2023.10.7 21:59:16] Message Info: bad message notification received, msgId 7240551840490935128, error_code 33
+[2023.10.7 21:59:16] Skipping message, because it is already in blocks!
+[2023.10.7 21:59:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 21:59:45] Message Info: bad message notification received (error_code 33) for msg_id = 7240551966049918348, seq_no = 124
+[2023.10.7 21:59:45] Message Info: bad message notification received, msgId 7240551966049918348, error_code 33
+[2023.10.7 21:59:47] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085238323040, seq_no = 20
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085238323040, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085434938936, seq_no = 356
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085435027852, seq_no = 332
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085434938936, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085435027852, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085479170436, seq_no = 308
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085479303160, seq_no = 314
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085479498160, seq_no = 274
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085479170436, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085483909908, seq_no = 290
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085479303160, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085479498160, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085483909908, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552085562397960, seq_no = 260
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552085562397960, error_code 33
+[2023.10.7 22:00:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240552086040450640, seq_no = 528
+[2023.10.7 22:00:13] Message Info: bad message notification received, msgId 7240552086040450640, error_code 33
+[2023.10.7 22:00:16] Skipping message, because it is already in blocks!
+[2023.10.7 22:00:27] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:27] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:00:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:01:03] RPC Error: request 4801 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:01:04] RPC Error: request 4806 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:01:17] Call Info: Creating group instance
+[2023.10.7 22:01:17] Call Info: Requesting join payload.
+[2023.10.7 22:01:17] OpenGL: [TRUE] (Window)
+[2023.10.7 22:01:17] Call Info: Join payload received, joining with ssrc: 1143908016.
+[2023.10.7 22:01:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:01:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240552364388083964, seq_no = 464
+[2023.10.7 22:01:19] Audio Info: Closing audio playback device.
+[2023.10.7 22:01:23] Skipping message, because it is already in blocks!
+[2023.10.7 22:01:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240552386408107324, seq_no = 492
+[2023.10.7 22:01:23] Message Info: bad message notification received, msgId 7240552386408107324, error_code 33
+[2023.10.7 22:01:24] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:01:25] Audio Info: Closing audio playback device.
+[2023.10.7 22:01:27] Call Info: Creating group instance
+[2023.10.7 22:01:27] Call Info: Requesting join payload.
+[2023.10.7 22:01:27] OpenGL: [TRUE] (Window)
+[2023.10.7 22:01:27] Call Info: Join payload received, joining with ssrc: 37203237.
+[2023.10.7 22:01:28] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:01:30] Audio Info: Closing audio playback device.
+[2023.10.7 22:01:32] Skipping message, because it is already in blocks!
+[2023.10.7 22:01:41] RPC Error: request 4971 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:01:43] Skipping message, because it is already in blocks!
+[2023.10.7 22:01:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:01:45] Audio Info: Closing audio playback device.
+[2023.10.7 22:02:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:02:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:02:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:02:02] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:02:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240552618230641736, seq_no = 350
+[2023.10.7 22:02:17] Message Info: bad message notification received, msgId 7240552618230641736, error_code 33
+[2023.10.7 22:03:38] RPC Error: request 8203 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:03:44] RPC Error: request 8231 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:03:49] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:03:50] RPC Error: request 8279 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:03:51] Audio Info: Closing audio playback device.
+[2023.10.7 22:04:18] Skipping message, because it is already in blocks!
+[2023.10.7 22:04:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:06:32] Message Info: bad message notification received (error_code 33) for msg_id = 7240553713221681072, seq_no = 1114
+[2023.10.7 22:06:32] Message Info: bad message notification received, msgId 7240553713221681072, error_code 33
+[2023.10.7 22:06:34] RPC Error: request 8579 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:06:36] Call Info: Creating group instance
+[2023.10.7 22:06:36] Call Info: Requesting join payload.
+[2023.10.7 22:06:36] OpenGL: [TRUE] (Window)
+[2023.10.7 22:06:36] Call Info: Join payload received, joining with ssrc: 46398256.
+[2023.10.7 22:06:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:06:38] Audio Info: Closing audio playback device.
+[2023.10.7 22:06:40] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:06:41] Audio Info: Closing audio playback device.
+[2023.10.7 22:08:01] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:08:01] Skipping message, because it is already in blocks!
+[2023.10.7 22:08:03] Audio Info: Closing audio playback device.
+[2023.10.7 22:08:52] Skipping message, because it is already in blocks!
+[2023.10.7 22:08:55] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:09:10] Skipping message, because it is already in blocks!
+[2023.10.7 22:09:15] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:09:16] Audio Info: Closing audio playback device.
+[2023.10.7 22:09:20] Message Info: bad message notification received (error_code 33) for msg_id = 7240554434668513732, seq_no = 750
+[2023.10.7 22:09:20] Message Info: bad message notification received, msgId 7240554434668513732, error_code 33
+[2023.10.7 22:09:48] Call Info: Creating group instance
+[2023.10.7 22:09:48] Call Info: Requesting join payload.
+[2023.10.7 22:09:48] OpenGL: [TRUE] (Window)
+[2023.10.7 22:09:48] Call Info: Join payload received, joining with ssrc: 1867379224.
+[2023.10.7 22:09:49] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:09:50] Audio Info: Closing audio playback device.
+[2023.10.7 22:09:53] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:09:54] Audio Info: Closing audio playback device.
+[2023.10.7 22:10:00] RPC Error: request 9073 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:10:11] RPC Error: request 9158 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:10:14] Skipping message, because it is already in blocks!
+[2023.10.7 22:10:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:11:22] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:11:22] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:11:53] Message Info: bad message notification received (error_code 33) for msg_id = 7240555091882413116, seq_no = 558
+[2023.10.7 22:11:53] Message Info: bad message notification received, msgId 7240555091882413116, error_code 33
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:12:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:13:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240555633145791816, seq_no = 326
+[2023.10.7 22:13:59] Message Info: bad message notification received, msgId 7240555633145791816, error_code 33
+[2023.10.7 22:14:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240555637455001076, seq_no = 12
+[2023.10.7 22:14:00] Message Info: bad message notification received, msgId 7240555637455001076, error_code 33
+[2023.10.7 22:14:00] Skipping message, because it is already in blocks!
+[2023.10.7 22:14:02] Message Info: bad message notification received (error_code 33) for msg_id = 7240555643310789012, seq_no = 11
+[2023.10.7 22:14:02] Message Info: bad message notification received, msgId 7240555643310789012, error_code 33
+[2023.10.7 22:14:46] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:14:48] Audio Info: Closing audio playback device.
+[2023.10.7 22:15:25] RPC Error: request 9686 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.10.7 22:16:07] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:07] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:08] Message Info: bad message notification received (error_code 33) for msg_id = 7240556187716290120, seq_no = 350
+[2023.10.7 22:16:08] Message Info: bad message notification received (error_code 33) for msg_id = 7240556187746510784, seq_no = 351
+[2023.10.7 22:16:08] Message Info: bad message notification received, msgId 7240556187746510784, error_code 33
+[2023.10.7 22:16:09] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:16:11] Audio Info: Closing audio playback device.
+[2023.10.7 22:16:33] Skipping message, because it is already in blocks!
+[2023.10.7 22:16:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:37] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:16:37] Skipping message, because it is already in blocks!
+[2023.10.7 22:16:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240556328832358084, seq_no = 150
+[2023.10.7 22:16:41] Message Info: bad message notification received, msgId 7240556328832358084, error_code 33
+[2023.10.7 22:17:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240556440606144996, seq_no = 78
+[2023.10.7 22:17:07] Message Info: bad message notification received, msgId 7240556440606144996, error_code 33
+[2023.10.7 22:17:08] Skipping message, because it is already in blocks!
+[2023.10.7 22:17:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240556573658066672, seq_no = 82
+[2023.10.7 22:17:38] Message Info: bad message notification received, msgId 7240556573658066672, error_code 33
+[2023.10.7 22:18:06] Skipping message, because it is already in blocks!
+[2023.10.7 22:18:12] Skipping message, because it is already in blocks!
+[2023.10.7 22:18:30] Skipping message, because it is already in blocks!
+[2023.10.7 22:19:02] Skipping message, because it is already in blocks!
+[2023.10.7 22:19:42] Message Info: bad message notification received (error_code 33) for msg_id = 7240557106398752152, seq_no = 364
+[2023.10.7 22:19:42] Message Info: bad message notification received, msgId 7240557106398752152, error_code 33
+[2023.10.7 22:20:02] Skipping message, because it is already in blocks!
+[2023.10.7 22:20:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240557282125406428, seq_no = 142
+[2023.10.7 22:20:24] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:20:35] Skipping message, because it is already in blocks!
+[2023.10.7 22:20:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:20:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240557372319883336, seq_no = 232
+[2023.10.7 22:20:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240557373470653736, seq_no = 232
+[2023.10.7 22:21:08] RPC Error: request 10255 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:21:08] Skipping message, because it is already in blocks!
+[2023.10.7 22:21:10] Call Info: Creating group instance
+[2023.10.7 22:21:10] Call Info: Requesting join payload.
+[2023.10.7 22:21:10] OpenGL: [TRUE] (Window)
+[2023.10.7 22:21:10] Call Info: Join payload received, joining with ssrc: 1104762394.
+[2023.10.7 22:21:10] Message Info: bad message notification received (error_code 33) for msg_id = 7240557483988560992, seq_no = 378
+[2023.10.7 22:21:11] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:21:12] Audio Info: Closing audio playback device.
+[2023.10.7 22:21:16] Skipping message, because it is already in blocks!
+[2023.10.7 22:21:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:21:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240557655958288120, seq_no = 640
+[2023.10.7 22:21:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240557657572486156, seq_no = 642
+[2023.10.7 22:21:51] Message Info: bad message notification received, msgId 7240557657572486156, error_code 33
+[2023.10.7 22:21:51] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:21:53] Audio Info: Closing audio playback device.
+[2023.10.7 22:22:02] RPC Error: request 10660 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:22:03] RPC Error: request 10665 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 22:22:08] Message Info: bad message notification received (error_code 33) for msg_id = 7240557729066700052, seq_no = 152
+[2023.10.7 22:22:08] Message Info: bad message notification received, msgId 7240557729066700052, error_code 33
+[2023.10.7 22:22:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:22:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:22:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:23:37] Skipping message, because it is already in blocks!
+[2023.10.7 22:23:51] Skipping message, because it is already in blocks!
+[2023.10.7 22:24:00] Skipping message, because it is already in blocks!
+[2023.10.7 22:24:01] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:24:03] Audio Info: Closing audio playback device.
+[2023.10.7 22:24:08] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:24:10] Audio Info: Closing audio playback device.
+[2023.10.7 22:24:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:24:39] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:24:41] Audio Info: Closing audio playback device.
+[2023.10.7 22:24:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:24:47] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:24:48] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:24:49] Audio Info: Closing audio playback device.
+[2023.10.7 22:24:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:24:52] Audio Info: Closing audio playback device.
+[2023.10.7 22:25:11] Audio Info: OnDeviceStateChanged("{0.0.0.00000000}.{f86a7620-2c15-4b1c-8cb6-03b34da4be0d}", 4) scheduling detach from audio device.
+[2023.10.7 22:25:11] Audio Info: OnDeviceStateChanged("{0.0.0.00000000}.{f86a7620-2c15-4b1c-8cb6-03b34da4be0d}", 1) scheduling detach from audio device.
+[2023.10.7 22:25:11] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 0, new_default_device_id: "{0.0.0.00000000}.{f86a7620-2c15-4b1c-8cb6-03b34da4be0d}"
+[2023.10.7 22:25:11] Audio Info: skipping OnDefaultDeviceChanged() flow 0, role 1, new_default_device_id: "{0.0.0.00000000}.{f86a7620-2c15-4b1c-8cb6-03b34da4be0d}"
+[2023.10.7 22:25:11] Audio Info: OnDefaultDeviceChanged() scheduling detach from audio device, flow 0, role 2, new_default_device_id: "{0.0.0.00000000}.{f86a7620-2c15-4b1c-8cb6-03b34da4be0d}"
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:25:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:26:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:26:30] Skipping message, because it is already in blocks!
+[2023.10.7 22:26:30] Message Info: bad message notification received (error_code 33) for msg_id = 7240558858378419296, seq_no = 1226
+[2023.10.7 22:26:30] Message Info: bad message notification received (error_code 33) for msg_id = 7240558858638678760, seq_no = 1228
+[2023.10.7 22:26:30] Message Info: bad message notification received, msgId 7240558858638678760, error_code 33
+[2023.10.7 22:27:06] Skipping message, because it is already in blocks!
+[2023.10.7 22:27:59] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:28:01] Audio Info: Closing audio playback device.
+[2023.10.7 22:28:14] Skipping message, because it is already in blocks!
+[2023.10.7 22:28:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:28:45] Audio Info: Closing audio playback device.
+[2023.10.7 22:28:57] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:28:58] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:28:59] Skipping message, because it is already in blocks!
+[2023.10.7 22:29:03] Skipping message, because it is already in blocks!
+[2023.10.7 22:29:16] Skipping message, because it is already in blocks!
+[2023.10.7 22:29:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:29:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:29:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:29:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:29:31] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:30:06] Skipping message, because it is already in blocks!
+[2023.10.7 22:30:20] Message Info: bad message notification received (error_code 33) for msg_id = 7240559846403420512, seq_no = 960
+[2023.10.7 22:30:20] Message Info: bad message notification received, msgId 7240559846403420512, error_code 33
+[2023.10.7 22:30:29] Skipping message, because it is already in blocks!
+[2023.10.7 22:30:35] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:30:53] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:30:53] Message Info: bad message notification received (error_code 33) for msg_id = 7240559987955013188, seq_no = 212
+[2023.10.7 22:30:53] Message Info: bad message notification received (error_code 33) for msg_id = 7240559988602753544, seq_no = 214
+[2023.10.7 22:30:53] Message Info: bad message notification received, msgId 7240559988602753544, error_code 33
+[2023.10.7 22:30:55] Audio Info: Closing audio playback device.
+[2023.10.7 22:31:07] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:31:09] Audio Info: Closing audio playback device.
+[2023.10.7 22:31:17] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:31:17] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:31:17] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:31:25] Skipping message, because it is already in blocks!
+[2023.10.7 22:31:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240560256669000808, seq_no = 250
+[2023.10.7 22:31:56] Message Info: bad message notification received, msgId 7240560256669000808, error_code 33
+[2023.10.7 22:32:34] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:32:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240560430390225312, seq_no = 130
+[2023.10.7 22:32:36] Message Info: bad message notification received, msgId 7240560430390225312, error_code 33
+[2023.10.7 22:32:36] Audio Info: Closing audio playback device.
+[2023.10.7 22:32:38] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:32:40] Audio Info: Closing audio playback device.
+[2023.10.7 22:32:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:33:00] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:33:02] Audio Info: Closing audio playback device.
+[2023.10.7 22:33:02] Message Info: bad message notification received (error_code 33) for msg_id = 7240560542205250696, seq_no = 120
+[2023.10.7 22:33:02] Message Info: bad message notification received, msgId 7240560542205250696, error_code 33
+[2023.10.7 22:33:02] Skipping message, because it is already in blocks!
+[2023.10.7 22:33:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240560546302524668, seq_no = 30
+[2023.10.7 22:33:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240560546514825968, seq_no = 32
+[2023.10.7 22:33:03] Message Info: bad message notification received, msgId 7240560546514825968, error_code 33
+[2023.10.7 22:33:06] Message Info: bad message notification received (error_code 33) for msg_id = 7240560559192032956, seq_no = 22
+[2023.10.7 22:33:06] Message Info: bad message notification received, msgId 7240560559192032956, error_code 33
+[2023.10.7 22:33:55] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:33:57] Audio Info: Closing audio playback device.
+[2023.10.7 22:34:32] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:34:32] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:34:32] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:34:50] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:34:54] Skipping message, because it is already in blocks!
+[2023.10.7 22:35:48] Skipping message, because it is already in blocks!
+[2023.10.7 22:35:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:35:56] Audio Info: Closing audio playback device.
+[2023.10.7 22:35:58] Skipping message, because it is already in blocks!
+[2023.10.7 22:37:10] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:37:35] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:37:37] Audio Info: Closing audio playback device.
+[2023.10.7 22:37:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:37:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:37:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:37:39] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:37:41] Audio Info: Closing audio playback device.
+[2023.10.7 22:37:53] Skipping message, because it is already in blocks!
+[2023.10.7 22:38:28] Skipping message, because it is already in blocks!
+[2023.10.7 22:38:33] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:38:35] Audio Info: Closing audio playback device.
+[2023.10.7 22:38:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240561976695165236, seq_no = 1528
+[2023.10.7 22:38:36] Message Info: bad message notification received, msgId 7240561976695165236, error_code 33
+[2023.10.7 22:38:36] Skipping message, because it is already in blocks!
+[2023.10.7 22:38:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:38:39] Audio Info: Closing audio playback device.
+[2023.10.7 22:39:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:39:20] Audio Info: Closing audio playback device.
+[2023.10.7 22:39:24] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:39:24] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:39:24] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:39:48] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:39:50] Audio Info: Closing audio playback device.
+[2023.10.7 22:40:06] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:06] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:06] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:06] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:10] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:40:12] Audio Info: Closing audio playback device.
+[2023.10.7 22:40:23] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:40:25] Audio Info: Closing audio playback device.
+[2023.10.7 22:40:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:40:42] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:40:44] Audio Info: Closing audio playback device.
+[2023.10.7 22:40:49] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:40:51] Audio Info: Closing audio playback device.
+[2023.10.7 22:41:00] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:41:02] Audio Info: Closing audio playback device.
+[2023.10.7 22:41:19] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:41:21] Audio Info: Closing audio playback device.
+[2023.10.7 22:41:48] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:41:50] Audio Info: Closing audio playback device.
+[2023.10.7 22:42:22] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:42:24] Audio Info: Closing audio playback device.
+[2023.10.7 22:42:30] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:42:32] Audio Info: Closing audio playback device.
+[2023.10.7 22:42:58] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:43:00] Audio Info: Closing audio playback device.
+[2023.10.7 22:43:26] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:43:28] Audio Info: Closing audio playback device.
+[2023.10.7 22:43:30] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:43:32] Audio Info: Closing audio playback device.
+[2023.10.7 22:43:52] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:43:53] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:43:54] Audio Info: Closing audio playback device.
+[2023.10.7 22:44:29] Skipping message, because it is already in blocks!
+[2023.10.7 22:44:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:44:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240563569957237604, seq_no = 1706
+[2023.10.7 22:44:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240563570031807420, seq_no = 1708
+[2023.10.7 22:44:47] Message Info: bad message notification received, msgId 7240563570031807420, error_code 33
+[2023.10.7 22:44:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240563587308888412, seq_no = 30
+[2023.10.7 22:45:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:45:33] Audio Info: Closing audio playback device.
+[2023.10.7 22:45:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240563874899741272, seq_no = 226
+[2023.10.7 22:45:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240563875347115852, seq_no = 226
+[2023.10.7 22:45:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240563876110009808, seq_no = 226
+[2023.10.7 22:46:04] Message Info: bad message notification received (error_code 33) for msg_id = 7240563900670688916, seq_no = 252
+[2023.10.7 22:46:25] Skipping message, because it is already in blocks!
+[2023.10.7 22:46:56] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:46:58] Audio Info: Closing audio playback device.
+[2023.10.7 22:47:33] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:47:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240564283963783592, seq_no = 642
+[2023.10.7 22:47:34] Message Info: bad message notification received (error_code 33) for msg_id = 7240564284618195628, seq_no = 642
+[2023.10.7 22:47:36] Audio Info: Closing audio playback device.
+[2023.10.7 22:47:44] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:47:46] Audio Info: Closing audio playback device.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:01] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:48:02] Message Info: bad message notification received (error_code 33) for msg_id = 7240564407843328708, seq_no = 740
+[2023.10.7 22:48:02] Message Info: bad message notification received, msgId 7240564407843328708, error_code 33
+[2023.10.7 22:48:03] Skipping message, because it is already in blocks!
+[2023.10.7 22:48:17] Skipping message, because it is already in blocks!
+[2023.10.7 22:48:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:48:20] Audio Info: Closing audio playback device.
+[2023.10.7 22:48:42] Skipping message, because it is already in blocks!
+[2023.10.7 22:49:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:49:08] Audio Info: Closing audio playback device.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:49:39] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:49:41] Audio Info: Closing audio playback device.
+[2023.10.7 22:49:42] Skipping message, because it is already in blocks!
+[2023.10.7 22:50:24] Skipping message, because it is already in blocks!
+[2023.10.7 22:50:36] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:50:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240565073670983756, seq_no = 676
+[2023.10.7 22:50:37] Message Info: bad message notification received, msgId 7240565073670983756, error_code 33
+[2023.10.7 22:50:38] Audio Info: Closing audio playback device.
+[2023.10.7 22:50:40] Message Info: bad message notification received (error_code 33) for msg_id = 7240565082006645248, seq_no = 32
+[2023.10.7 22:50:40] Message Info: bad message notification received, msgId 7240565082006645248, error_code 33
+[2023.10.7 22:50:57] Skipping message, because it is already in blocks!
+[2023.10.7 22:51:00] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:51:03] Audio Info: Closing audio playback device.
+[2023.10.7 22:51:12] Message Info: bad message notification received (error_code 33) for msg_id = 7240565223726997908, seq_no = 130
+[2023.10.7 22:51:12] Message Info: bad message notification received, msgId 7240565223726997908, error_code 33
+[2023.10.7 22:51:13] Skipping message, because it is already in blocks!
+[2023.10.7 22:51:20] Skipping message, because it is already in blocks!
+[2023.10.7 22:51:32] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:51:33] Skipping message, because it is already in blocks!
+[2023.10.7 22:52:15] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:52:17] Audio Info: Closing audio playback device.
+[2023.10.7 22:52:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:52:57] Audio Info: Closing audio playback device.
+[2023.10.7 22:53:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:53:08] Audio Info: Closing audio playback device.
+[2023.10.7 22:53:38] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:53:40] Audio Info: Closing audio playback device.
+[2023.10.7 22:53:43] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:53:43] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:53:43] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:53:43] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:53:58] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:54:00] Audio Info: Closing audio playback device.
+[2023.10.7 22:54:13] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:54:15] Audio Info: Closing audio playback device.
+[2023.10.7 22:54:26] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:54:28] Audio Info: Closing audio playback device.
+[2023.10.7 22:54:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:54:49] Audio Info: Closing audio playback device.
+[2023.10.7 22:55:04] Skipping message, because it is already in blocks!
+[2023.10.7 22:56:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:56:19] Skipping message, because it is already in blocks!
+[2023.10.7 22:56:40] Skipping message, because it is already in blocks!
+[2023.10.7 22:57:03] Skipping message, because it is already in blocks!
+[2023.10.7 22:58:04] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:58:06] Audio Info: Closing audio playback device.
+[2023.10.7 22:59:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:59:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:59:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:59:19] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 22:59:20] API Warning: not loaded minimal channel applied.
+[2023.10.7 22:59:21] Audio Info: Closing audio playback device.
+[2023.10.7 23:00:49] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:00:51] Audio Info: Closing audio playback device.
+[2023.10.7 23:01:13] Skipping message, because it is already in blocks!
+[2023.10.7 23:01:13] Skipping message, because it is already in blocks!
+[2023.10.7 23:01:21] Skipping message, because it is already in blocks!
+[2023.10.7 23:01:26] Skipping message, because it is already in blocks!
+[2023.10.7 23:01:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:01:36] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:02:06] Skipping message, because it is already in blocks!
+[2023.10.7 23:02:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:03:11] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:03:13] Audio Info: Closing audio playback device.
+[2023.10.7 23:03:20] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:03:20] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:03:42] Skipping message, because it is already in blocks!
+[2023.10.7 23:04:23] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:04:30] Skipping message, because it is already in blocks!
+[2023.10.7 23:04:41] Skipping message, because it is already in blocks!
+[2023.10.7 23:04:45] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:04:47] Audio Info: Closing audio playback device.
+[2023.10.7 23:04:51] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:04:53] Audio Info: Closing audio playback device.
+[2023.10.7 23:05:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:05:49] Audio Info: Closing audio playback device.
+[2023.10.7 23:06:13] Skipping message, because it is already in blocks!
+[2023.10.7 23:06:30] Skipping message, because it is already in blocks!
+[2023.10.7 23:07:10] Skipping message, because it is already in blocks!
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:08:33] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:19] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:20] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:09:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:09:56] Audio Info: Closing audio playback device.
+[2023.10.7 23:10:08] Skipping message, because it is already in blocks!
+[2023.10.7 23:10:17] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:10:18] Audio Info: Closing audio playback device.
+[2023.10.7 23:10:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240570276601737236, seq_no = 5082
+[2023.10.7 23:10:49] Message Info: bad message notification received, msgId 7240570276601737236, error_code 33
+[2023.10.7 23:11:02] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:11:18] Skipping message, because it is already in blocks!
+[2023.10.7 23:11:48] RPC Error: request 17837 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 23:11:50] Call Info: Creating group instance
+[2023.10.7 23:11:50] Call Info: Requesting join payload.
+[2023.10.7 23:11:50] OpenGL: [TRUE] (Window)
+[2023.10.7 23:11:50] Call Info: Join payload received, joining with ssrc: 2128625979.
+[2023.10.7 23:11:51] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:11:52] Audio Info: Closing audio playback device.
+[2023.10.7 23:11:52] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:11:53] Audio Info: Closing audio playback device.
+[2023.10.7 23:12:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:12:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:12:33] Skipping message, because it is already in blocks!
+[2023.10.7 23:12:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:13:41] Skipping message, because it is already in blocks!
+[2023.10.7 23:14:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:14:34] Skipping message, because it is already in blocks!
+[2023.10.7 23:15:21] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:15:21] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:15:59] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:16:01] Audio Info: Closing audio playback device.
+[2023.10.7 23:16:06] Message Info: bad message notification received (error_code 33) for msg_id = 7240571636273939268, seq_no = 1350
+[2023.10.7 23:16:06] Message Info: bad message notification received (error_code 33) for msg_id = 7240571636577092344, seq_no = 1352
+[2023.10.7 23:16:06] Message Info: bad message notification received, msgId 7240571636577092344, error_code 33
+[2023.10.7 23:16:12] RPC Error: request 18643 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.10.7 23:16:44] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:16:46] Audio Info: Closing audio playback device.
+[2023.10.7 23:17:45] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:17:47] Audio Info: Closing audio playback device.
+[2023.10.7 23:18:15] Message Info: bad message notification received (error_code 33) for msg_id = 7240572191654626720, seq_no = 340
+[2023.10.7 23:19:13] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:19:15] Audio Info: Closing audio playback device.
+[2023.10.7 23:19:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:19:18] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:19:20] Audio Info: Closing audio playback device.
+[2023.10.7 23:19:36] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:19:38] Audio Info: Closing audio playback device.
+[2023.10.7 23:19:41] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:19:42] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:19:44] Audio Info: Closing audio playback device.
+[2023.10.7 23:20:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240572641948990392, seq_no = 884
+[2023.10.7 23:20:00] Message Info: bad message notification received, msgId 7240572641948990392, error_code 33
+[2023.10.7 23:20:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240572641980189428, seq_no = 60
+[2023.10.7 23:20:00] Message Info: bad message notification received, msgId 7240572641980189428, error_code 33
+[2023.10.7 23:20:23] RPC Error: request 19536 got fail with code 400, error PEER_ID_INVALID
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:30] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:50] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:50] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:50] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:20:50] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:21:36] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:21:38] Audio Info: Closing audio playback device.
+[2023.10.7 23:22:13] Skipping message, because it is already in blocks!
+[2023.10.7 23:22:53] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:22:53] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:22:53] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:22:57] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:38] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:23:51] Skipping message, because it is already in blocks!
+[2023.10.7 23:24:14] RPC Error: request 20254 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.10.7 23:24:19] Message Info: bad message notification received (error_code 33) for msg_id = 7240573753583477288, seq_no = 1158
+[2023.10.7 23:24:19] Message Info: bad message notification received, msgId 7240573753583477288, error_code 33
+[2023.10.7 23:24:23] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:24:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240573779385844536, seq_no = 70
+[2023.10.7 23:24:25] Message Info: bad message notification received, msgId 7240573779385844536, error_code 33
+[2023.10.7 23:24:28] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:09] Message Info: bad message notification received (error_code 33) for msg_id = 7240573968341889956, seq_no = 224
+[2023.10.7 23:25:09] Message Info: bad message notification received, msgId 7240573968341889956, error_code 33
+[2023.10.7 23:25:46] Message Info: bad message notification received (error_code 33) for msg_id = 7240574126991028124, seq_no = 170
+[2023.10.7 23:25:53] Skipping message, because it is already in blocks!
+[2023.10.7 23:25:58] Skipping message, because it is already in blocks!
+[2023.10.7 23:25:58] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:58] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:58] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:58] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:25:59] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:04] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:26:06] Message Info: bad message notification received (error_code 33) for msg_id = 7240574213387000508, seq_no = 264
+[2023.10.7 23:26:12] Skipping message, because it is already in blocks!
+[2023.10.7 23:26:42] Skipping message, because it is already in blocks!
+[2023.10.7 23:27:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:28:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240574951814982936, seq_no = 1008
+[2023.10.7 23:28:58] Message Info: bad message notification received, msgId 7240574951814982936, error_code 33
+[2023.10.7 23:28:59] Skipping message, because it is already in blocks!
+[2023.10.7 23:29:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240575058994794016, seq_no = 150
+[2023.10.7 23:29:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240575059142965132, seq_no = 152
+[2023.10.7 23:29:23] Message Info: bad message notification received, msgId 7240575059142965132, error_code 33
+[2023.10.7 23:29:28] RPC Error: request 21069 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.10.7 23:29:35] Skipping message, because it is already in blocks!
+[2023.10.7 23:30:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240575322009641692, seq_no = 312
+[2023.10.7 23:30:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:30:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:30:34] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:30:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240575458697856020, seq_no = 440
+[2023.10.7 23:30:56] Message Info: bad message notification received, msgId 7240575458697856020, error_code 33
+[2023.10.7 23:31:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:32:13] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:32:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:32:39] Audio Info: Closing audio playback device.
+[2023.10.7 23:32:55] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:33:04] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:33:06] Audio Info: Closing audio playback device.
+[2023.10.7 23:34:02] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:34:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:34:08] Audio Info: Closing audio playback device.
+[2023.10.7 23:34:15] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:34:18] Skipping message, because it is already in blocks!
+[2023.10.7 23:34:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240576390703958684, seq_no = 976
+[2023.10.7 23:34:33] Message Info: bad message notification received, msgId 7240576390703958684, error_code 33
+[2023.10.7 23:34:34] Skipping message, because it is already in blocks!
+[2023.10.7 23:34:40] Skipping message, because it is already in blocks!
+[2023.10.7 23:35:08] Skipping message, because it is already in blocks!
+[2023.10.7 23:38:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:38:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:38:08] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:38:13] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:38:46] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:38:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240577482863353148, seq_no = 1126
+[2023.10.7 23:38:47] Message Info: bad message notification received, msgId 7240577482863353148, error_code 33
+[2023.10.7 23:39:01] Skipping message, because it is already in blocks!
+[2023.10.7 23:39:01] Skipping message, because it is already in blocks!
+[2023.10.7 23:39:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:39:39] Skipping message, because it is already in blocks!
+[2023.10.7 23:40:28] Message Info: bad message notification received (error_code 33) for msg_id = 7240577915209986676, seq_no = 748
+[2023.10.7 23:40:28] Message Info: bad message notification received, msgId 7240577915209986676, error_code 33
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:39] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:40:47] Skipping message, because it is already in blocks!
+[2023.10.7 23:40:57] Skipping message, because it is already in blocks!
+[2023.10.7 23:41:29] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:41:29] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:41:29] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:41:30] Message Info: bad message notification received (error_code 33) for msg_id = 7240578182255556904, seq_no = 230
+[2023.10.7 23:41:30] Message Info: bad message notification received, msgId 7240578182255556904, error_code 33
+[2023.10.7 23:41:34] Skipping message, because it is already in blocks!
+[2023.10.7 23:41:41] Skipping message, because it is already in blocks!
+[2023.10.7 23:41:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:41:56] Audio Info: Closing audio playback device.
+[2023.10.7 23:41:57] Skipping message, because it is already in blocks!
+[2023.10.7 23:42:53] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:43:34] Message Info: bad message notification received (error_code 33) for msg_id = 7240578714315307400, seq_no = 632
+[2023.10.7 23:43:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240578727072701976, seq_no = 668
+[2023.10.7 23:43:37] Message Info: bad message notification received, msgId 7240578727072701976, error_code 33
+[2023.10.7 23:43:39] Message Info: bad message notification received (error_code 33) for msg_id = 7240578735775865724, seq_no = 22
+[2023.10.7 23:43:39] Message Info: bad message notification received, msgId 7240578735775865724, error_code 33
+[2023.10.7 23:43:39] Skipping message, because it is already in blocks!
+[2023.10.7 23:43:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240578770248967980, seq_no = 84
+[2023.10.7 23:43:47] Message Info: bad message notification received, msgId 7240578770248967980, error_code 33
+[2023.10.7 23:44:04] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:44:06] Audio Info: Closing audio playback device.
+[2023.10.7 23:44:20] Skipping message, because it is already in blocks!
+[2023.10.7 23:44:20] Message Info: bad message notification received (error_code 33) for msg_id = 7240578911961928784, seq_no = 196
+[2023.10.7 23:44:20] Message Info: bad message notification received, msgId 7240578911961928784, error_code 33
+[2023.10.7 23:44:31] Message Info: bad message notification received (error_code 33) for msg_id = 7240578959151533260, seq_no = 78
+[2023.10.7 23:44:31] Message Info: bad message notification received, msgId 7240578959151533260, error_code 33
+[2023.10.7 23:44:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240579014660179888, seq_no = 50
+[2023.10.7 23:44:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240579014787202908, seq_no = 52
+[2023.10.7 23:44:44] Message Info: bad message notification received, msgId 7240579014787202908, error_code 33
+[2023.10.7 23:44:45] Skipping message, because it is already in blocks!
+[2023.10.7 23:44:45] Skipping message, because it is already in blocks!
+[2023.10.7 23:44:47] Skipping message, because it is already in blocks!
+[2023.10.7 23:45:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:45:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:45:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:45:20] Skipping message, because it is already in blocks!
+[2023.10.7 23:45:56] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:45:56] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:45:56] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:45:56] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:46:23] Skipping message, because it is already in blocks!
+[2023.10.7 23:46:26] Message Info: bad message notification received (error_code 33) for msg_id = 7240579453031762992, seq_no = 580
+[2023.10.7 23:46:26] Message Info: bad message notification received, msgId 7240579453031762992, error_code 33
+[2023.10.7 23:46:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240579466043610332, seq_no = 38
+[2023.10.7 23:46:29] Message Info: bad message notification received, msgId 7240579466043610332, error_code 33
+[2023.10.7 23:47:02] Skipping message, because it is already in blocks!
+[2023.10.7 23:47:29] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:47:32] Skipping message, because it is already in blocks!
+[2023.10.7 23:48:14] Skipping message, because it is already in blocks!
+[2023.10.7 23:49:03] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:49:03] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:49:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:49:20] RPC Error: request 24414 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.10.7 23:49:22] Message Info: bad message notification received (error_code 33) for msg_id = 7240580208660821616, seq_no = 964
+[2023.10.7 23:49:22] Message Info: bad message notification received (error_code 33) for msg_id = 7240580209671016444, seq_no = 964
+[2023.10.7 23:49:22] Message Info: bad message notification received (error_code 33) for msg_id = 7240580210299265660, seq_no = 964
+[2023.10.7 23:49:44] Skipping message, because it is already in blocks!
+[2023.10.7 23:49:46] Skipping message, because it is already in blocks!
+[2023.10.7 23:50:31] Skipping message, because it is already in blocks!
+[2023.10.7 23:50:42] Skipping message, because it is already in blocks!
+[2023.10.7 23:50:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:50:46] Audio Info: Closing audio playback device.
+[2023.10.7 23:51:17] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:51:19] Audio Info: Closing audio playback device.
+[2023.10.7 23:51:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240580806314228956, seq_no = 1616
+[2023.10.7 23:51:41] Message Info: bad message notification received, msgId 7240580806314228956, error_code 33
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:44] API Warning: not loaded minimal channel applied.
+[2023.10.7 23:51:46] Skipping message, because it is already in blocks!
+[2023.10.7 23:52:16] Skipping message, because it is already in blocks!
+[2023.10.7 23:52:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240581050714183788, seq_no = 336
+[2023.10.7 23:52:38] Message Info: bad message notification received, msgId 7240581050714183788, error_code 33
+[2023.10.7 23:52:38] Skipping message, because it is already in blocks!
+[2023.10.7 23:52:55] Skipping message, because it is already in blocks!
+[2023.10.7 23:53:02] Skipping message, because it is already in blocks!
+[2023.10.7 23:53:05] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:53:07] Audio Info: Closing audio playback device.
+[2023.10.7 23:53:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240581218476804316, seq_no = 276
+[2023.10.7 23:53:19] Skipping message, because it is already in blocks!
+[2023.10.7 23:53:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240581270005432904, seq_no = 28
+[2023.10.7 23:53:29] Message Info: bad message notification received, msgId 7240581270005432904, error_code 33
+[2023.10.7 23:53:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240581271206575216, seq_no = 386
+[2023.10.7 23:53:29] Message Info: bad message notification received, msgId 7240581271206575216, error_code 33
+[2023.10.7 23:53:33] Skipping message, because it is already in blocks!
+[2023.10.7 23:55:32] Skipping message, because it is already in blocks!
+[2023.10.7 23:55:54] Message Info: bad message notification received (error_code 33) for msg_id = 7240581892366939156, seq_no = 584
+[2023.10.7 23:55:54] Message Info: bad message notification received, msgId 7240581892366939156, error_code 33
+[2023.10.7 23:56:07] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:56:08] Skipping message, because it is already in blocks!
+[2023.10.7 23:56:09] Audio Info: Closing audio playback device.
+[2023.10.7 23:56:41] Skipping message, because it is already in blocks!
+[2023.10.7 23:56:51] Skipping message, because it is already in blocks!
+[2023.10.7 23:57:08] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:57:09] Message Info: bad message notification received (error_code 33) for msg_id = 7240582214519056472, seq_no = 322
+[2023.10.7 23:57:09] Message Info: bad message notification received, msgId 7240582214519056472, error_code 33
+[2023.10.7 23:57:10] Audio Info: Closing audio playback device.
+[2023.10.7 23:57:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:57:17] Skipping message, because it is already in blocks!
+[2023.10.7 23:57:28] Message Info: bad message notification received (error_code 33) for msg_id = 7240582296248616432, seq_no = 90
+[2023.10.7 23:57:28] Message Info: bad message notification received, msgId 7240582296248616432, error_code 33
+[2023.10.7 23:57:28] Skipping message, because it is already in blocks!
+[2023.10.7 23:57:28] Skipping message, because it is already in blocks!
+[2023.10.7 23:57:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:57:33] Audio Info: Closing audio playback device.
+[2023.10.7 23:57:40] Skipping message, because it is already in blocks!
+[2023.10.7 23:58:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240582507077028692, seq_no = 128
+[2023.10.7 23:58:21] Skipping message, because it is already in blocks!
+[2023.10.7 23:58:33] Audio Info: recreating audio device and reattaching the tracks
+[2023.10.7 23:58:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240582583777701400, seq_no = 258
+[2023.10.7 23:58:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240582583815822104, seq_no = 260
+[2023.10.7 23:58:35] Message Info: bad message notification received, msgId 7240582583815822104, error_code 33
+[2023.10.7 23:58:35] Audio Info: Closing audio playback device.
+[2023.10.7 23:59:08] Skipping message, because it is already in blocks!
+[2023.10.7 23:59:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240582790167672848, seq_no = 264
+[2023.10.7 23:59:23] Message Info: bad message notification received, msgId 7240582790167672848, error_code 33
+[2023.10.7 23:59:39] Skipping message, because it is already in blocks!
+[2023.06.04 00:00:35] Skipping message, because it is already in blocks!
+[2023.06.04 00:00:39] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:00:41] Audio Info: Closing audio playback device.
+[2023.06.04 00:00:43] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:00:43] RPC Error: request 26230 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:00:47] Streaming Error: Error in avformat_open_input (code: -542398533, text: Generic error in an external library).
+[2023.06.04 00:00:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240583159637215896, seq_no = 12
+[2023.06.04 00:00:49] Message Info: bad message notification received, msgId 7240583159637215896, error_code 33
+[2023.06.04 00:00:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240583159700280540, seq_no = 12
+[2023.06.04 00:00:49] Message Info: bad message notification received, msgId 7240583159700280540, error_code 33
+[2023.06.04 00:00:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240583159704390772, seq_no = 10
+[2023.06.04 00:00:49] Message Info: bad message notification received, msgId 7240583159704390772, error_code 33
+[2023.06.04 00:00:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240583159697743528, seq_no = 26
+[2023.06.04 00:00:49] Message Info: bad message notification received, msgId 7240583159697743528, error_code 33
+[2023.06.04 00:00:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:00:54] Audio Info: Closing audio playback device.
+[2023.06.04 00:00:54] App Info: writing encrypted user settings...
+[2023.06.04 00:00:59] RPC Error: request 26474 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 00:01:02] Call Info: Creating group instance
+[2023.06.04 00:01:02] Call Info: Requesting join payload.
+[2023.06.04 00:01:02] OpenGL: [TRUE] (Window)
+[2023.06.04 00:01:02] Call Info: Join payload received, joining with ssrc: 1754897496.
+[2023.06.04 00:01:03] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:01:04] Audio Info: Closing audio playback device.
+[2023.06.04 00:01:05] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:01:06] Audio Info: Closing audio playback device.
+[2023.06.04 00:01:13] RPC Error: request 26549 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 00:01:17] Skipping message, because it is already in blocks!
+[2023.06.04 00:01:27] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:01:29] Audio Info: Closing audio playback device.
+[2023.06.04 00:01:30] Skipping message, because it is already in blocks!
+[2023.06.04 00:01:33] Skipping message, because it is already in blocks!
+[2023.06.04 00:01:56] Skipping message, because it is already in blocks!
+[2023.06.04 00:02:09] RPC Error: request 5229 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:02:10] Skipping message, because it is already in blocks!
+[2023.06.04 00:02:15] RPC Error: request 27018 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:02:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:02:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240583653264976316, seq_no = 1338
+[2023.06.04 00:02:44] Message Info: bad message notification received, msgId 7240583653264976316, error_code 33
+[2023.06.04 00:03:36] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:03:38] Audio Info: Closing audio playback device.
+[2023.06.04 00:03:39] Skipping message, because it is already in blocks!
+[2023.06.04 00:03:48] Skipping message, because it is already in blocks!
+[2023.06.04 00:04:10] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:04:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240584027391971884, seq_no = 314
+[2023.06.04 00:04:12] Audio Info: Closing audio playback device.
+[2023.06.04 00:04:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240584130132642300, seq_no = 424
+[2023.06.04 00:04:35] Message Info: bad message notification received, msgId 7240584130132642300, error_code 33
+[2023.06.04 00:04:54] Skipping message, because it is already in blocks!
+[2023.06.04 00:05:10] Message Info: bad message notification received (error_code 33) for msg_id = 7240584280309401888, seq_no = 162
+[2023.06.04 00:05:10] Message Info: bad message notification received, msgId 7240584280309401888, error_code 33
+[2023.06.04 00:05:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240584327680054720, seq_no = 32
+[2023.06.04 00:05:21] Message Info: bad message notification received, msgId 7240584327680054720, error_code 33
+[2023.06.04 00:05:23] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:27] Skipping message, because it is already in blocks!
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:05:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:06:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:06:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:06:52] Audio Info: Closing audio playback device.
+[2023.06.04 00:07:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:07:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:07:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240584825824669948, seq_no = 396
+[2023.06.04 00:07:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240584826514241348, seq_no = 398
+[2023.06.04 00:07:17] Message Info: bad message notification received, msgId 7240584826514241348, error_code 33
+[2023.06.04 00:07:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240584894470012848, seq_no = 84
+[2023.06.04 00:07:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240584894621312804, seq_no = 88
+[2023.06.04 00:07:33] Message Info: bad message notification received, msgId 7240584894621312804, error_code 33
+[2023.06.04 00:07:34] Skipping message, because it is already in blocks!
+[2023.06.04 00:07:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:07:39] Audio Info: Closing audio playback device.
+[2023.06.04 00:08:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:08:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:08:23] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:08:26] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:08:28] Audio Info: Closing audio playback device.
+[2023.06.04 00:08:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:08:45] Audio Info: Closing audio playback device.
+[2023.06.04 00:08:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:08:49] Audio Info: Closing audio playback device.
+[2023.06.04 00:09:02] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:09:04] Audio Info: Closing audio playback device.
+[2023.06.04 00:10:17] RPC Error: request 27987 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:10:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240585603330684920, seq_no = 642
+[2023.06.04 00:10:18] Message Info: bad message notification received, msgId 7240585603330684920, error_code 33
+[2023.06.04 00:10:21] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:10:22] Skipping message, because it is already in blocks!
+[2023.06.04 00:10:34] Skipping message, because it is already in blocks!
+[2023.06.04 00:10:49] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:10:49] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:10:49] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:11:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240585860839707800, seq_no = 286
+[2023.06.04 00:11:18] Message Info: bad message notification received, msgId 7240585860839707800, error_code 33
+[2023.06.04 00:13:05] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:13:07] Audio Info: Closing audio playback device.
+[2023.06.04 00:13:36] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:13:36] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:14:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240586634216281432, seq_no = 810
+[2023.06.04 00:14:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:14:20] Audio Info: Closing audio playback device.
+[2023.06.04 00:14:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240586762915569892, seq_no = 906
+[2023.06.04 00:14:48] Message Info: bad message notification received, msgId 7240586762915569892, error_code 33
+[2023.06.04 00:14:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240586767342455168, seq_no = 16
+[2023.06.04 00:14:49] Message Info: bad message notification received, msgId 7240586767342455168, error_code 33
+[2023.06.04 00:14:55] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:14:57] Audio Info: Closing audio playback device.
+[2023.06.04 00:15:19] Skipping message, because it is already in blocks!
+[2023.06.04 00:15:19] Skipping message, because it is already in blocks!
+[2023.06.04 00:15:19] Skipping message, because it is already in blocks!
+[2023.06.04 00:15:20] RPC Error: request 28717 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:15:27] Message Info: bad message notification received (error_code 33) for msg_id = 7240586930985890948, seq_no = 174
+[2023.06.04 00:16:40] Skipping message, because it is already in blocks!
+[2023.06.04 00:16:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240587248111969076, seq_no = 512
+[2023.06.04 00:16:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240587248112386544, seq_no = 513
+[2023.06.04 00:16:41] Message Info: bad message notification received, msgId 7240587248112386544, error_code 33
+[2023.06.04 00:16:41] Skipping message, because it is already in blocks!
+[2023.06.04 00:17:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240587329845157332, seq_no = 70
+[2023.06.04 00:17:13] RPC Error: request 29004 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 00:17:32] Skipping message, because it is already in blocks!
+[2023.06.04 00:18:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:18:49] Audio Info: Closing audio playback device.
+[2023.06.04 00:19:09] Skipping message, because it is already in blocks!
+[2023.06.04 00:19:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240588059860776172, seq_no = 778
+[2023.06.04 00:19:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240588060017878972, seq_no = 780
+[2023.06.04 00:19:50] Message Info: bad message notification received, msgId 7240588060017878972, error_code 33
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] RPC Error: request 29377 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:19:59] Audio Info: Closing audio playback device.
+[2023.06.04 00:20:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:20:29] Skipping message, because it is already in blocks!
+[2023.06.04 00:21:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240588420807739964, seq_no = 438
+[2023.06.04 00:21:14] Message Info: bad message notification received, msgId 7240588420807739964, error_code 33
+[2023.06.04 00:21:21] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:21:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240588450926891992, seq_no = 42
+[2023.06.04 00:21:21] Message Info: bad message notification received, msgId 7240588450926891992, error_code 33
+[2023.06.04 00:21:22] Skipping message, because it is already in blocks!
+[2023.06.04 00:21:22] Skipping message, because it is already in blocks!
+[2023.06.04 00:21:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240588459414096132, seq_no = 32
+[2023.06.04 00:21:23] Message Info: bad message notification received, msgId 7240588459414096132, error_code 33
+[2023.06.04 00:21:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240588519723335332, seq_no = 100
+[2023.06.04 00:21:37] Message Info: bad message notification received, msgId 7240588519723335332, error_code 33
+[2023.06.04 00:21:42] Message Info: bad message notification received (error_code 33) for msg_id = 7240588541443959728, seq_no = 30
+[2023.06.04 00:21:42] Message Info: bad message notification received, msgId 7240588541443959728, error_code 33
+[2023.06.04 00:22:26] Skipping message, because it is already in blocks!
+[2023.06.04 00:22:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:22:52] Audio Info: Closing audio playback device.
+[2023.06.04 00:22:59] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:23:01] Audio Info: Closing audio playback device.
+[2023.06.04 00:23:03] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:23:05] Audio Info: Closing audio playback device.
+[2023.06.04 00:23:38] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:24:18] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:24:29] Skipping message, because it is already in blocks!
+[2023.06.04 00:25:32] Skipping message, because it is already in blocks!
+[2023.06.04 00:26:18] Skipping message, because it is already in blocks!
+[2023.06.04 00:26:27] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:26:29] Audio Info: Closing audio playback device.
+[2023.06.04 00:27:21] Skipping message, because it is already in blocks!
+[2023.06.04 00:27:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:27:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:27:43] Skipping message, because it is already in blocks!
+[2023.06.04 00:27:46] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:27:48] Audio Info: Closing audio playback device.
+[2023.06.04 00:27:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:28:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:28:08] Audio Info: Closing audio playback device.
+[2023.06.04 00:28:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240590417799271208, seq_no = 1736
+[2023.06.04 00:28:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240590418227839704, seq_no = 1736
+[2023.06.04 00:29:04] Skipping message, because it is already in blocks!
+[2023.06.04 00:29:05] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:29:07] Audio Info: Closing audio playback device.
+[2023.06.04 00:29:16] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:29:18] Audio Info: Closing audio playback device.
+[2023.06.04 00:29:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:29:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:29:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:29:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:29:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:30:25] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:30:27] Audio Info: Closing audio playback device.
+[2023.06.04 00:31:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240590941938925448, seq_no = 2172
+[2023.06.04 00:31:01] Message Info: bad message notification received, msgId 7240590941938925448, error_code 33
+[2023.06.04 00:31:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:31:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:32:42] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:32:46] Audio Info: Closing audio playback device.
+[2023.06.04 00:33:31] Skipping message, because it is already in blocks!
+[2023.06.04 00:33:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:33:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:33:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:34:42] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:34:44] Audio Info: Closing audio playback device.
+[2023.06.04 00:35:01] Skipping message, because it is already in blocks!
+[2023.06.04 00:35:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240591998436415604, seq_no = 1144
+[2023.06.04 00:35:07] Message Info: bad message notification received, msgId 7240591998436415604, error_code 33
+[2023.06.04 00:35:11] Skipping message, because it is already in blocks!
+[2023.06.04 00:35:31] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:35:39] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:36:19] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:36:21] Audio Info: Closing audio playback device.
+[2023.06.04 00:37:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240592573888835548, seq_no = 692
+[2023.06.04 00:37:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240592574048823224, seq_no = 692
+[2023.06.04 00:37:27] Skipping message, because it is already in blocks!
+[2023.06.04 00:37:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240592638395879260, seq_no = 770
+[2023.06.04 00:37:36] Message Info: bad message notification received, msgId 7240592638395879260, error_code 33
+[2023.06.04 00:37:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240592659868761336, seq_no = 42
+[2023.06.04 00:37:41] Message Info: bad message notification received, msgId 7240592659868761336, error_code 33
+[2023.06.04 00:37:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240592689908149400, seq_no = 50
+[2023.06.04 00:37:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240592690709345732, seq_no = 56
+[2023.06.04 00:37:48] Message Info: bad message notification received, msgId 7240592690709345732, error_code 33
+[2023.06.04 00:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:38:15] Message Info: bad message notification received (error_code 33) for msg_id = 7240592806047458824, seq_no = 150
+[2023.06.04 00:38:15] Message Info: bad message notification received, msgId 7240592806047458824, error_code 33
+[2023.06.04 00:38:54] Skipping message, because it is already in blocks!
+[2023.06.04 00:39:01] Skipping message, because it is already in blocks!
+[2023.06.04 00:39:01] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:39:03] Audio Info: Closing audio playback device.
+[2023.06.04 00:39:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:39:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240593102231630324, seq_no = 288
+[2023.06.04 00:39:24] Message Info: bad message notification received, msgId 7240593102231630324, error_code 33
+[2023.06.04 00:39:33] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:39:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:39:35] Audio Info: Closing audio playback device.
+[2023.06.04 00:40:27] Message Info: bad message notification received (error_code 33) for msg_id = 7240593372802306488, seq_no = 268
+[2023.06.04 00:40:31] Skipping message, because it is already in blocks!
+[2023.06.04 00:40:33] Skipping message, because it is already in blocks!
+[2023.06.04 00:41:07] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:41:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:41:56] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:41:57] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:42:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:42:08] Audio Info: Closing audio playback device.
+[2023.06.04 00:42:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240593982620675484, seq_no = 912
+[2023.06.04 00:42:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240593982737065188, seq_no = 914
+[2023.06.04 00:42:49] Message Info: bad message notification received, msgId 7240593982737065188, error_code 33
+[2023.06.04 00:42:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:42:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240594021287384396, seq_no = 40
+[2023.06.04 00:42:58] Message Info: bad message notification received, msgId 7240594021287384396, error_code 33
+[2023.06.04 00:43:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:15] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:15] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:15] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:15] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:43:29] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:43:29] Skipping message, because it is already in blocks!
+[2023.06.04 00:43:31] Audio Info: Closing audio playback device.
+[2023.06.04 00:43:33] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:43:35] Audio Info: Closing audio playback device.
+[2023.06.04 00:43:38] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:43:40] Audio Info: Closing audio playback device.
+[2023.06.04 00:43:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240594214744465956, seq_no = 216
+[2023.06.04 00:43:43] Message Info: bad message notification received, msgId 7240594214744465956, error_code 33
+[2023.06.04 00:43:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:43:45] Audio Info: Closing audio playback device.
+[2023.06.04 00:44:33] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:45:17] Skipping message, because it is already in blocks!
+[2023.06.04 00:45:26] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:45:27] Message Info: bad message notification received (error_code 33) for msg_id = 7240594661737655696, seq_no = 384
+[2023.06.04 00:45:27] Message Info: bad message notification received, msgId 7240594661737655696, error_code 33
+[2023.06.04 00:45:29] Skipping message, because it is already in blocks!
+[2023.06.04 00:45:32] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:46:12] Message Info: bad message notification received (error_code 33) for msg_id = 7240594854613743764, seq_no = 170
+[2023.06.04 00:46:12] Message Info: bad message notification received, msgId 7240594854613743764, error_code 33
+[2023.06.04 00:46:37] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:46:37] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:46:37] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:46:38] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:48:22] Message Info: bad message notification received (error_code 33) for msg_id = 7240595413001869324, seq_no = 450
+[2023.06.04 00:48:22] Message Info: bad message notification received, msgId 7240595413001869324, error_code 33
+[2023.06.04 00:48:23] Skipping message, because it is already in blocks!
+[2023.06.04 00:48:57] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:48:59] Audio Info: Closing audio playback device.
+[2023.06.04 00:49:00] Skipping message, because it is already in blocks!
+[2023.06.04 00:49:00] Skipping message, because it is already in blocks!
+[2023.06.04 00:49:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240595700775057060, seq_no = 358
+[2023.06.04 00:49:29] Message Info: bad message notification received, msgId 7240595700775057060, error_code 33
+[2023.06.04 00:49:30] Skipping message, because it is already in blocks!
+[2023.06.04 00:50:10] Skipping message, because it is already in blocks!
+[2023.06.04 00:50:36] Skipping message, because it is already in blocks!
+[2023.06.04 00:50:43] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:50:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240596052978452832, seq_no = 392
+[2023.06.04 00:50:51] Message Info: bad message notification received, msgId 7240596052978452832, error_code 33
+[2023.06.04 00:52:30] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:52:43] Skipping message, because it is already in blocks!
+[2023.06.04 00:52:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240596534085462124, seq_no = 498
+[2023.06.04 00:52:43] Message Info: bad message notification received, msgId 7240596534085462124, error_code 33
+[2023.06.04 00:52:59] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:53:01] Audio Info: Closing audio playback device.
+[2023.06.04 00:53:21] Skipping message, because it is already in blocks!
+[2023.06.04 00:53:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240596731521203884, seq_no = 194
+[2023.06.04 00:53:33] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:53:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:53:57] Message Info: bad message notification received (error_code 33) for msg_id = 7240596851813425952, seq_no = 374
+[2023.06.04 00:53:57] Message Info: bad message notification received, msgId 7240596851813425952, error_code 33
+[2023.06.04 00:54:05] API Warning: not loaded minimal channel applied.
+[2023.06.04 00:54:16] Skipping message, because it is already in blocks!
+[2023.06.04 00:54:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240596941889552204, seq_no = 96
+[2023.06.04 00:54:18] Message Info: bad message notification received, msgId 7240596941889552204, error_code 33
+[2023.06.04 00:55:01] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 00:55:03] Audio Info: Closing audio playback device.
+[2023.06.04 00:55:11] Skipping message, because it is already in blocks!
+[2023.06.04 00:56:25] Skipping message, because it is already in blocks!
+[2023.06.04 00:56:33] Skipping message, because it is already in blocks!
+[2023.06.04 00:56:39] Skipping message, because it is already in blocks!
+[2023.06.04 00:57:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240597712298225320, seq_no = 884
+[2023.06.04 00:57:45] Message Info: bad message notification received (error_code 33) for msg_id = 7240597831359979704, seq_no = 1014
+[2023.06.04 00:57:46] Message Info: bad message notification received (error_code 33) for msg_id = 7240597835389412168, seq_no = 1018
+[2023.06.04 00:57:46] Message Info: bad message notification received, msgId 7240597835389412168, error_code 33
+[2023.06.04 00:57:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240597839501291324, seq_no = 14
+[2023.06.04 00:57:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240597841321707772, seq_no = 14
+[2023.06.04 00:57:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240597848210373432, seq_no = 28
+[2023.06.04 00:57:49] Message Info: bad message notification received, msgId 7240597848210373432, error_code 33
+[2023.06.04 00:58:21] Skipping message, because it is already in blocks!
+[2023.06.04 00:59:28] Skipping message, because it is already in blocks!
+[2023.06.04 00:59:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240598313752462804, seq_no = 606
+[2023.06.04 00:59:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240598314414682552, seq_no = 608
+[2023.06.04 00:59:38] Message Info: bad message notification received, msgId 7240598314414682552, error_code 33
+[2023.06.04 00:59:40] Message Info: bad message notification received (error_code 33) for msg_id = 7240598325825406808, seq_no = 26
+[2023.06.04 00:59:40] Message Info: bad message notification received, msgId 7240598325825406808, error_code 33
+[2023.06.04 01:00:02] Message Info: bad message notification received (error_code 33) for msg_id = 7240598419603287544, seq_no = 84
+[2023.06.04 01:00:02] Message Info: bad message notification received, msgId 7240598419603287544, error_code 33
+[2023.06.04 01:01:40] Message Info: bad message notification received (error_code 33) for msg_id = 7240598840478552896, seq_no = 554
+[2023.06.04 01:01:40] Message Info: bad message notification received, msgId 7240598840478552896, error_code 33
+[2023.06.04 01:02:09] Message Info: bad message notification received (error_code 33) for msg_id = 7240598964932738840, seq_no = 112
+[2023.06.04 01:02:09] Message Info: bad message notification received, msgId 7240598964932738840, error_code 33
+[2023.06.04 01:02:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240598986402923196, seq_no = 26
+[2023.06.04 01:02:14] Message Info: bad message notification received, msgId 7240598986402923196, error_code 33
+[2023.06.04 01:02:17] Skipping message, because it is already in blocks!
+[2023.06.04 01:02:17] Skipping message, because it is already in blocks!
+[2023.06.04 01:03:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:03:16] Message Info: bad message notification received (error_code 33) for msg_id = 7240599252774095140, seq_no = 244
+[2023.06.04 01:03:16] Message Info: bad message notification received, msgId 7240599252774095140, error_code 33
+[2023.06.04 01:03:16] Skipping message, because it is already in blocks!
+[2023.06.04 01:03:17] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:03:19] Audio Info: Closing audio playback device.
+[2023.06.04 01:03:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240599338680871032, seq_no = 138
+[2023.06.04 01:03:36] Message Info: bad message notification received, msgId 7240599338680871032, error_code 33
+[2023.06.04 01:04:35] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:04:37] Audio Info: Closing audio playback device.
+[2023.06.04 01:04:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240599604894104956, seq_no = 358
+[2023.06.04 01:04:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240599605030185948, seq_no = 372
+[2023.06.04 01:04:38] Message Info: bad message notification received, msgId 7240599605030185948, error_code 33
+[2023.06.04 01:04:51] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:04:53] Audio Info: Closing audio playback device.
+[2023.06.04 01:05:11] Skipping message, because it is already in blocks!
+[2023.06.04 01:05:17] RPC Error: request 36099 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:06:24] Skipping message, because it is already in blocks!
+[2023.06.04 01:06:24] Skipping message, because it is already in blocks!
+[2023.06.04 01:06:46] Skipping message, because it is already in blocks!
+[2023.06.04 01:06:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240600172000802044, seq_no = 712
+[2023.06.04 01:06:50] Message Info: bad message notification received, msgId 7240600172000802044, error_code 33
+[2023.06.04 01:07:03] Skipping message, because it is already in blocks!
+[2023.06.04 01:07:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240600339414465308, seq_no = 224
+[2023.06.04 01:07:29] Message Info: bad message notification received, msgId 7240600339414465308, error_code 33
+[2023.06.04 01:07:35] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:07:37] Audio Info: Closing audio playback device.
+[2023.06.04 01:07:42] Skipping message, because it is already in blocks!
+[2023.06.04 01:07:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240600405388406612, seq_no = 102
+[2023.06.04 01:07:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:07:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:08:11] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:08:46] Message Info: bad message notification received (error_code 33) for msg_id = 7240600669999263008, seq_no = 294
+[2023.06.04 01:08:46] Message Info: bad message notification received, msgId 7240600669999263008, error_code 33
+[2023.06.04 01:08:51] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:08:51] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:09:01] Skipping message, because it is already in blocks!
+[2023.06.04 01:09:28] Skipping message, because it is already in blocks!
+[2023.06.04 01:09:30] Skipping message, because it is already in blocks!
+[2023.06.04 01:10:02] Skipping message, because it is already in blocks!
+[2023.06.04 01:10:02] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:10:04] Audio Info: Closing audio playback device.
+[2023.06.04 01:10:34] Message Info: bad message notification received (error_code 33) for msg_id = 7240601131830666252, seq_no = 488
+[2023.06.04 01:10:34] Message Info: bad message notification received, msgId 7240601131830666252, error_code 33
+[2023.06.04 01:11:02] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:11:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:11:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240601305886290164, seq_no = 156
+[2023.06.04 01:12:11] Skipping message, because it is already in blocks!
+[2023.06.04 01:12:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:12:52] Skipping message, because it is already in blocks!
+[2023.06.04 01:12:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240601743628017840, seq_no = 598
+[2023.06.04 01:12:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240601743799033968, seq_no = 600
+[2023.06.04 01:12:56] Message Info: bad message notification received, msgId 7240601743799033968, error_code 33
+[2023.06.04 01:12:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240601752389470728, seq_no = 20
+[2023.06.04 01:12:58] Message Info: bad message notification received, msgId 7240601752389470728, error_code 33
+[2023.06.04 01:13:00] Skipping message, because it is already in blocks!
+[2023.06.04 01:14:24] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:14:26] Audio Info: Closing audio playback device.
+[2023.06.04 01:14:31] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:14:40] Skipping message, because it is already in blocks!
+[2023.06.04 01:14:45] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:15:01] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:15:04] Audio Info: Closing audio playback device.
+[2023.06.04 01:15:07] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:15:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:15:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240602383638029068, seq_no = 528
+[2023.06.04 01:15:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240602383746701260, seq_no = 530
+[2023.06.04 01:15:25] Message Info: bad message notification received, msgId 7240602383746701260, error_code 33
+[2023.06.04 01:15:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240602426663249220, seq_no = 60
+[2023.06.04 01:15:35] Message Info: bad message notification received, msgId 7240602426663249220, error_code 33
+[2023.06.04 01:15:53] Message Info: bad message notification received (error_code 33) for msg_id = 7240602504012639168, seq_no = 84
+[2023.06.04 01:15:53] Message Info: bad message notification received, msgId 7240602504012639168, error_code 33
+[2023.06.04 01:15:53] Skipping message, because it is already in blocks!
+[2023.06.04 01:16:07] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:16:39] Message Info: bad message notification received (error_code 33) for msg_id = 7240602702057118096, seq_no = 214
+[2023.06.04 01:16:46] Skipping message, because it is already in blocks!
+[2023.06.04 01:16:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:16:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:17:40] Skipping message, because it is already in blocks!
+[2023.06.04 01:18:12] Message Info: bad message notification received (error_code 33) for msg_id = 7240603101141322932, seq_no = 638
+[2023.06.04 01:18:12] Message Info: bad message notification received, msgId 7240603101141322932, error_code 33
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:18:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:19:04] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:19:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240603363036592552, seq_no = 280
+[2023.06.04 01:19:13] Message Info: bad message notification received, msgId 7240603363036592552, error_code 33
+[2023.06.04 01:19:35] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:19:35] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:19:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:19:49] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240603577752321436, seq_no = 228
+[2023.06.04 01:20:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240603578556202928, seq_no = 228
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:20:34] Skipping message, because it is already in blocks!
+[2023.06.04 01:20:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240603716625322144, seq_no = 322
+[2023.06.04 01:20:40] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:20:42] Audio Info: Closing audio playback device.
+[2023.06.04 01:20:57] Message Info: bad message notification received (error_code 33) for msg_id = 7240603809511152508, seq_no = 524
+[2023.06.04 01:20:57] Message Info: bad message notification received (error_code 33) for msg_id = 7240603809620343524, seq_no = 526
+[2023.06.04 01:20:57] Message Info: bad message notification received, msgId 7240603809620343524, error_code 33
+[2023.06.04 01:20:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240603814011260712, seq_no = 18
+[2023.06.04 01:20:58] Message Info: bad message notification received, msgId 7240603814011260712, error_code 33
+[2023.06.04 01:21:00] RPC Error: request 38428 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:21:44] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:22:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240604084399645816, seq_no = 286
+[2023.06.04 01:22:01] Message Info: bad message notification received, msgId 7240604084399645816, error_code 33
+[2023.06.04 01:22:12] Message Info: bad message notification received (error_code 33) for msg_id = 7240604131748325396, seq_no = 86
+[2023.06.04 01:22:12] Message Info: bad message notification received, msgId 7240604131748325396, error_code 33
+[2023.06.04 01:22:30] RPC Error: request 38654 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 01:22:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240604230922989920, seq_no = 130
+[2023.06.04 01:22:35] Message Info: bad message notification received, msgId 7240604230922989920, error_code 33
+[2023.06.04 01:22:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:22:39] Audio Info: Closing audio playback device.
+[2023.06.04 01:24:18] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:24:18] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:24:18] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:24:25] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:24:28] RPC Error: request 38944 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:25:17] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:25:19] Audio Info: Closing audio playback device.
+[2023.06.04 01:25:23] Skipping message, because it is already in blocks!
+[2023.06.04 01:25:24] Message Info: bad message notification received (error_code 33) for msg_id = 7240604956344719868, seq_no = 774
+[2023.06.04 01:25:24] Message Info: bad message notification received, msgId 7240604956344719868, error_code 33
+[2023.06.04 01:25:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240604960557533064, seq_no = 14
+[2023.06.04 01:25:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240604960685945056, seq_no = 16
+[2023.06.04 01:25:25] Message Info: bad message notification received, msgId 7240604960685945056, error_code 33
+[2023.06.04 01:26:10] Message Info: bad message notification received (error_code 33) for msg_id = 7240605153860902112, seq_no = 276
+[2023.06.04 01:26:10] Message Info: bad message notification received, msgId 7240605153860902112, error_code 33
+[2023.06.04 01:26:22] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:26:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:26:33] Audio Info: Closing audio playback device.
+[2023.06.04 01:26:35] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:26:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240605265815081764, seq_no = 222
+[2023.06.04 01:26:36] Message Info: bad message notification received, msgId 7240605265815081764, error_code 33
+[2023.06.04 01:26:37] Audio Info: Closing audio playback device.
+[2023.06.04 01:26:50] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:28:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:28:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240605780917363916, seq_no = 520
+[2023.06.04 01:28:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240605781266766644, seq_no = 522
+[2023.06.04 01:28:36] Message Info: bad message notification received, msgId 7240605781266766644, error_code 33
+[2023.06.04 01:28:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240605802637393792, seq_no = 74
+[2023.06.04 01:28:41] Message Info: bad message notification received, msgId 7240605802637393792, error_code 33
+[2023.06.04 01:29:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240605914355181616, seq_no = 188
+[2023.06.04 01:29:07] Message Info: bad message notification received, msgId 7240605914355181616, error_code 33
+[2023.06.04 01:29:21] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:29:21] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:29:25] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:29:27] Audio Info: Closing audio playback device.
+[2023.06.04 01:29:28] Message Info: bad message notification received (error_code 33) for msg_id = 7240606004444181072, seq_no = 148
+[2023.06.04 01:29:28] Message Info: bad message notification received, msgId 7240606004444181072, error_code 33
+[2023.06.04 01:29:57] RPC Error: request 39898 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:30:05] Message Info: bad message notification received (error_code 33) for msg_id = 7240606163445477824, seq_no = 232
+[2023.06.04 01:30:05] Message Info: bad message notification received, msgId 7240606163445477824, error_code 33
+[2023.06.04 01:30:40] Skipping message, because it is already in blocks!
+[2023.06.04 01:31:06] Message Info: bad message notification received (error_code 33) for msg_id = 7240606426454296044, seq_no = 314
+[2023.06.04 01:31:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240606426721094064, seq_no = 318
+[2023.06.04 01:31:07] Message Info: bad message notification received, msgId 7240606426721094064, error_code 33
+[2023.06.04 01:31:24] Skipping message, because it is already in blocks!
+[2023.06.04 01:31:36] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:31:38] Audio Info: Closing audio playback device.
+[2023.06.04 01:32:30] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:32:30] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:32:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240606812292562092, seq_no = 422
+[2023.06.04 01:32:36] Message Info: bad message notification received, msgId 7240606812292562092, error_code 33
+[2023.06.04 01:32:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240606820711002276, seq_no = 34
+[2023.06.04 01:32:38] Message Info: bad message notification received, msgId 7240606820711002276, error_code 33
+[2023.06.04 01:32:39] Skipping message, because it is already in blocks!
+[2023.06.04 01:33:09] Message Info: bad message notification received (error_code 33) for msg_id = 7240606953484041720, seq_no = 194
+[2023.06.04 01:33:09] Message Info: bad message notification received, msgId 7240606953484041720, error_code 33
+[2023.06.04 01:33:09] Skipping message, because it is already in blocks!
+[2023.06.04 01:33:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240607121101436284, seq_no = 254
+[2023.06.04 01:33:48] Message Info: bad message notification received, msgId 7240607121101436284, error_code 33
+[2023.06.04 01:33:54] Skipping message, because it is already in blocks!
+[2023.06.04 01:33:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:34:01] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:34:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240607245708719332, seq_no = 284
+[2023.06.04 01:34:17] Message Info: bad message notification received, msgId 7240607245708719332, error_code 33
+[2023.06.04 01:34:18] Skipping message, because it is already in blocks!
+[2023.06.04 01:35:20] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:35:22] Audio Info: Closing audio playback device.
+[2023.06.04 01:35:44] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:35:46] Audio Info: Closing audio playback device.
+[2023.06.04 01:35:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240607679480967676, seq_no = 606
+[2023.06.04 01:35:58] Message Info: bad message notification received, msgId 7240607679480967676, error_code 33
+[2023.06.04 01:35:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240607683566905580, seq_no = 10
+[2023.06.04 01:36:02] Skipping message, because it is already in blocks!
+[2023.06.04 01:36:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240607748014513884, seq_no = 80
+[2023.06.04 01:36:14] Message Info: bad message notification received, msgId 7240607748014513884, error_code 33
+[2023.06.04 01:36:49] Message Info: bad message notification received (error_code 33) for msg_id = 7240607898505204188, seq_no = 244
+[2023.06.04 01:36:49] Message Info: bad message notification received, msgId 7240607898505204188, error_code 33
+[2023.06.04 01:37:26] Message Info: bad message notification received (error_code 33) for msg_id = 7240608057443808376, seq_no = 166
+[2023.06.04 01:37:26] Message Info: bad message notification received, msgId 7240608057443808376, error_code 33
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:38:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:39:10] Skipping message, because it is already in blocks!
+[2023.06.04 01:39:11] Skipping message, because it is already in blocks!
+[2023.06.04 01:39:24] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:39:24] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:40:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:40:34] Message Info: bad message notification received (error_code 33) for msg_id = 7240608864826465148, seq_no = 904
+[2023.06.04 01:40:34] Message Info: bad message notification received, msgId 7240608864826465148, error_code 33
+[2023.06.04 01:40:35] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:40:35] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:40:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240608879448203204, seq_no = 46
+[2023.06.04 01:40:37] Message Info: bad message notification received, msgId 7240608879448203204, error_code 33
+[2023.06.04 01:40:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240608924936379344, seq_no = 78
+[2023.06.04 01:40:48] Message Info: bad message notification received, msgId 7240608924936379344, error_code 33
+[2023.06.04 01:41:54] Skipping message, because it is already in blocks!
+[2023.06.04 01:42:05] Message Info: bad message notification received (error_code 33) for msg_id = 7240609255698406592, seq_no = 314
+[2023.06.04 01:42:05] Message Info: bad message notification received, msgId 7240609255698406592, error_code 33
+[2023.06.04 01:42:07] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:42:07] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:42:19] RPC Error: request 42099 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 01:42:20] Skipping message, because it is already in blocks!
+[2023.06.04 01:42:28] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:42:30] Audio Info: Closing audio playback device.
+[2023.06.04 01:42:31] Message Info: bad message notification received (error_code 33) for msg_id = 7240609367230043404, seq_no = 150
+[2023.06.04 01:42:31] Message Info: bad message notification received, msgId 7240609367230043404, error_code 33
+[2023.06.04 01:43:21] Skipping message, because it is already in blocks!
+[2023.06.04 01:43:23] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:43:26] Audio Info: Closing audio playback device.
+[2023.06.04 01:43:32] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:43:34] Audio Info: Closing audio playback device.
+[2023.06.04 01:43:47] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:43:47] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:43:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:43:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240609706496857328, seq_no = 426
+[2023.06.04 01:43:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240609706670431932, seq_no = 430
+[2023.06.04 01:43:50] Message Info: bad message notification received, msgId 7240609706670431932, error_code 33
+[2023.06.04 01:44:36] Skipping message, because it is already in blocks!
+[2023.06.04 01:44:42] Skipping message, because it is already in blocks!
+[2023.06.04 01:44:49] RPC Error: request 42504 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 01:45:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240610007143955972, seq_no = 296
+[2023.06.04 01:45:08] Message Info: bad message notification received (error_code 33) for msg_id = 7240610041987114132, seq_no = 346
+[2023.06.04 01:45:08] Message Info: bad message notification received (error_code 33) for msg_id = 7240610042674127484, seq_no = 346
+[2023.06.04 01:45:57] Skipping message, because it is already in blocks!
+[2023.06.04 01:46:09] Message Info: bad message notification received (error_code 33) for msg_id = 7240610303608589540, seq_no = 608
+[2023.06.04 01:46:09] Message Info: bad message notification received, msgId 7240610303608589540, error_code 33
+[2023.06.04 01:48:30] Message Info: bad message notification received (error_code 33) for msg_id = 7240610909996129352, seq_no = 596
+[2023.06.04 01:48:35] Message Info: bad message notification received (error_code 33) for msg_id = 7240610930562587424, seq_no = 640
+[2023.06.04 01:48:41] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:48:43] Audio Info: Closing audio playback device.
+[2023.06.04 01:48:58] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:48:58] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:48:58] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:49:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:49:33] Audio Info: Closing audio playback device.
+[2023.06.04 01:50:02] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:50:02] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:50:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240611454558390940, seq_no = 1250
+[2023.06.04 01:50:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240611455223290696, seq_no = 1250
+[2023.06.04 01:50:37] Message Info: bad message notification received (error_code 33) for msg_id = 7240611455238333612, seq_no = 1258
+[2023.06.04 01:50:37] Message Info: bad message notification received, msgId 7240611455238333612, error_code 33
+[2023.06.04 01:50:37] Skipping message, because it is already in blocks!
+[2023.06.04 01:50:37] Skipping message, because it is already in blocks!
+[2023.06.04 01:50:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240611484613176164, seq_no = 82
+[2023.06.04 01:50:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240611484952689872, seq_no = 82
+[2023.06.04 01:51:59] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:52:01] Audio Info: Closing audio playback device.
+[2023.06.04 01:52:19] Message Info: bad message notification received (error_code 33) for msg_id = 7240611892769470072, seq_no = 578
+[2023.06.04 01:52:19] Message Info: bad message notification received, msgId 7240611892769470072, error_code 33
+[2023.06.04 01:52:21] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:52:25] Skipping message, because it is already in blocks!
+[2023.06.04 01:52:39] RPC Error: request 43764 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:52:45] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:52:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240612030258416812, seq_no = 248
+[2023.06.04 01:52:51] Message Info: bad message notification received, msgId 7240612030258416812, error_code 33
+[2023.06.04 01:52:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240612030575546788, seq_no = 106
+[2023.06.04 01:52:51] Message Info: bad message notification received, msgId 7240612030575546788, error_code 33
+[2023.06.04 01:53:05] Message Info: bad message notification received (error_code 33) for msg_id = 7240612090273577872, seq_no = 88
+[2023.06.04 01:53:05] Message Info: bad message notification received, msgId 7240612090273577872, error_code 33
+[2023.06.04 01:53:05] Message Info: bad message notification received (error_code 33) for msg_id = 7240612091083586480, seq_no = 124
+[2023.06.04 01:53:05] Message Info: bad message notification received, msgId 7240612091083586480, error_code 33
+[2023.06.04 01:53:15] Message Info: bad message notification received (error_code 33) for msg_id = 7240612133289683540, seq_no = 90
+[2023.06.04 01:53:15] Message Info: bad message notification received, msgId 7240612133289683540, error_code 33
+[2023.06.04 01:53:15] Message Info: bad message notification received (error_code 33) for msg_id = 7240612133393702220, seq_no = 84
+[2023.06.04 01:53:15] Message Info: bad message notification received, msgId 7240612133393702220, error_code 33
+[2023.06.04 01:53:20] Audio Info: Closing audio playback device.
+[2023.06.04 01:53:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240612318005810756, seq_no = 276
+[2023.06.04 01:53:58] Message Info: bad message notification received, msgId 7240612318005810756, error_code 33
+[2023.06.04 01:54:14] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:54:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240612417430472516, seq_no = 158
+[2023.06.04 01:54:21] Message Info: bad message notification received, msgId 7240612417430472516, error_code 33
+[2023.06.04 01:54:25] Skipping message, because it is already in blocks!
+[2023.06.04 01:54:53] Message Info: bad message notification received (error_code 33) for msg_id = 7240612554261652640, seq_no = 234
+[2023.06.04 01:54:53] Message Info: bad message notification received, msgId 7240612554261652640, error_code 33
+[2023.06.04 01:54:57] Message Info: bad message notification received (error_code 33) for msg_id = 7240612571405923752, seq_no = 48
+[2023.06.04 01:54:57] Message Info: bad message notification received, msgId 7240612571405923752, error_code 33
+[2023.06.04 01:54:57] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:54:58] RPC Error: request 44679 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 01:54:59] Audio Info: Closing audio playback device.
+[2023.06.04 01:55:01] Skipping message, because it is already in blocks!
+[2023.06.04 01:55:12] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:55:14] Audio Info: Closing audio playback device.
+[2023.06.04 01:55:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240612691562035556, seq_no = 250
+[2023.06.04 01:55:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240612691695163788, seq_no = 256
+[2023.06.04 01:55:25] Message Info: bad message notification received, msgId 7240612691695163788, error_code 33
+[2023.06.04 01:55:33] Skipping message, because it is already in blocks!
+[2023.06.04 01:55:34] Message Info: bad message notification received (error_code 33) for msg_id = 7240612731557374208, seq_no = 76
+[2023.06.04 01:55:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240612738793990932, seq_no = 90
+[2023.06.04 01:55:36] Message Info: bad message notification received, msgId 7240612738793990932, error_code 33
+[2023.06.04 01:56:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240612854707122820, seq_no = 134
+[2023.06.04 01:56:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240612889246491424, seq_no = 190
+[2023.06.04 01:56:11] Message Info: bad message notification received, msgId 7240612889246491424, error_code 33
+[2023.06.04 01:56:12] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:56:14] Audio Info: Closing audio playback device.
+[2023.06.04 01:56:20] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:56:22] Audio Info: Closing audio playback device.
+[2023.06.04 01:56:25] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 01:56:27] Audio Info: Closing audio playback device.
+[2023.06.04 01:57:09] Skipping message, because it is already in blocks!
+[2023.06.04 01:57:11] Skipping message, because it is already in blocks!
+[2023.06.04 01:57:14] Message Info: bad message notification received (error_code 33) for msg_id = 7240613159816655124, seq_no = 374
+[2023.06.04 01:57:14] Message Info: bad message notification received, msgId 7240613159816655124, error_code 33
+[2023.06.04 01:57:19] Message Info: bad message notification received (error_code 33) for msg_id = 7240613181461661840, seq_no = 52
+[2023.06.04 01:57:19] Message Info: bad message notification received, msgId 7240613181461661840, error_code 33
+[2023.06.04 01:58:27] Skipping message, because it is already in blocks!
+[2023.06.04 01:58:30] Message Info: bad message notification received (error_code 33) for msg_id = 7240613486352614564, seq_no = 354
+[2023.06.04 01:58:30] Message Info: bad message notification received, msgId 7240613486352614564, error_code 33
+[2023.06.04 01:58:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:58:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:58:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:58:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:58:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:59:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240613645074483032, seq_no = 238
+[2023.06.04 01:59:07] Message Info: bad message notification received, msgId 7240613645074483032, error_code 33
+[2023.06.04 01:59:08] Skipping message, because it is already in blocks!
+[2023.06.04 01:59:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:59:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 01:59:17] RPC Error: request 45532 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 01:59:21] Message Info: bad message notification received (error_code 33) for msg_id = 7240613705284729892, seq_no = 104
+[2023.06.04 01:59:21] Message Info: bad message notification received, msgId 7240613705284729892, error_code 33
+[2023.06.04 01:59:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240613723071531088, seq_no = 18
+[2023.06.04 01:59:25] Message Info: bad message notification received, msgId 7240613723071531088, error_code 33
+[2023.06.04 01:59:30] Skipping message, because it is already in blocks!
+[2023.06.04 01:59:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240613769743957696, seq_no = 82
+[2023.06.04 01:59:36] Message Info: bad message notification received, msgId 7240613769743957696, error_code 33
+[2023.06.04 01:59:40] Skipping message, because it is already in blocks!
+[2023.06.04 01:59:57] Message Info: bad message notification received (error_code 33) for msg_id = 7240613860384630716, seq_no = 106
+[2023.06.04 01:59:57] Message Info: bad message notification received, msgId 7240613860384630716, error_code 33
+[2023.06.04 02:00:29] RPC Error: request 45687 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:00:31] Skipping message, because it is already in blocks!
+[2023.06.04 02:00:43] Skipping message, because it is already in blocks!
+[2023.06.04 02:00:46] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:00:48] Audio Info: Closing audio playback device.
+[2023.06.04 02:00:50] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:00:51] Message Info: bad message notification received (error_code 33) for msg_id = 7240614091657691808, seq_no = 312
+[2023.06.04 02:00:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240614113341657920, seq_no = 330
+[2023.06.04 02:00:56] Message Info: bad message notification received, msgId 7240614113341657920, error_code 33
+[2023.06.04 02:01:14] RPC Error: request 45848 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 02:01:41] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:01:41] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:01:55] RPC Error: request 46001 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 02:02:20] RPC Error: request 26995 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:02:34] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:03:45] Skipping message, because it is already in blocks!
+[2023.06.04 02:04:38] RPC Error: request 46395 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 02:04:40] Message Info: bad message notification received (error_code 33) for msg_id = 7240615075381514244, seq_no = 1068
+[2023.06.04 02:04:40] Message Info: bad message notification received, msgId 7240615075381514244, error_code 33
+[2023.06.04 02:05:06] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:05:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:05:54] Skipping message, because it is already in blocks!
+[2023.06.04 02:05:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:05:56] Audio Info: Closing audio playback device.
+[2023.06.04 02:06:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240615431924411060, seq_no = 390
+[2023.06.04 02:06:03] Message Info: bad message notification received, msgId 7240615431924411060, error_code 33
+[2023.06.04 02:06:03] RPC Error: request 46592 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:06:04] Skipping message, because it is already in blocks!
+[2023.06.04 02:06:22] Message Info: bad message notification received (error_code 33) for msg_id = 7240615513507225248, seq_no = 106
+[2023.06.04 02:06:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240615526304953628, seq_no = 130
+[2023.06.04 02:06:36] Message Info: bad message notification received (error_code 33) for msg_id = 7240615573572062092, seq_no = 178
+[2023.06.04 02:06:36] Message Info: bad message notification received, msgId 7240615573572062092, error_code 33
+[2023.06.04 02:06:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240615594896352968, seq_no = 26
+[2023.06.04 02:06:41] Message Info: bad message notification received (error_code 33) for msg_id = 7240615595042383936, seq_no = 28
+[2023.06.04 02:06:41] Message Info: bad message notification received, msgId 7240615595042383936, error_code 33
+[2023.06.04 02:06:42] Message Info: bad message notification received (error_code 33) for msg_id = 7240615599191375772, seq_no = 20
+[2023.06.04 02:06:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240615625628187436, seq_no = 58
+[2023.06.04 02:06:48] Message Info: bad message notification received (error_code 33) for msg_id = 7240615626253111536, seq_no = 58
+[2023.06.04 02:07:03] Skipping message, because it is already in blocks!
+[2023.06.04 02:07:12] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:07:12] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:07:19] Skipping message, because it is already in blocks!
+[2023.06.04 02:07:37] Skipping message, because it is already in blocks!
+[2023.06.04 02:08:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240616097577777980, seq_no = 560
+[2023.06.04 02:08:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240616098320648672, seq_no = 560
+[2023.06.04 02:08:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240616099107730224, seq_no = 560
+[2023.06.04 02:08:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240616123259964308, seq_no = 614
+[2023.06.04 02:08:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:08:49] Audio Info: Closing audio playback device.
+[2023.06.04 02:08:56] Message Info: bad message notification received (error_code 33) for msg_id = 7240616174863904576, seq_no = 654
+[2023.06.04 02:08:56] Message Info: bad message notification received, msgId 7240616174863904576, error_code 33
+[2023.06.04 02:08:58] Message Info: bad message notification received (error_code 33) for msg_id = 7240616183306647876, seq_no = 32
+[2023.06.04 02:08:58] Message Info: bad message notification received, msgId 7240616183306647876, error_code 33
+[2023.06.04 02:09:00] Message Info: bad message notification received (error_code 33) for msg_id = 7240616192138323724, seq_no = 34
+[2023.06.04 02:09:00] Message Info: bad message notification received, msgId 7240616192138323724, error_code 33
+[2023.06.04 02:09:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240616204781978100, seq_no = 26
+[2023.06.04 02:09:03] Message Info: bad message notification received, msgId 7240616204781978100, error_code 33
+[2023.06.04 02:09:13] Message Info: bad message notification received (error_code 33) for msg_id = 7240616247754980084, seq_no = 70
+[2023.06.04 02:09:13] Message Info: bad message notification received, msgId 7240616247754980084, error_code 33
+[2023.06.04 02:09:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240616269538588884, seq_no = 58
+[2023.06.04 02:09:18] Message Info: bad message notification received, msgId 7240616269538588884, error_code 33
+[2023.06.04 02:09:28] Message Info: bad message notification received (error_code 33) for msg_id = 7240616312162138328, seq_no = 86
+[2023.06.04 02:09:28] Message Info: bad message notification received, msgId 7240616312162138328, error_code 33
+[2023.06.04 02:10:29] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:10:29] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:10:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240616591511266840, seq_no = 286
+[2023.06.04 02:10:33] Message Info: bad message notification received, msgId 7240616591511266840, error_code 33
+[2023.06.04 02:10:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:10:45] Audio Info: Closing audio playback device.
+[2023.06.04 02:13:06] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:13:08] Audio Info: Closing audio playback device.
+[2023.06.04 02:13:25] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:13:27] Audio Info: Closing audio playback device.
+[2023.06.04 02:13:40] Skipping message, because it is already in blocks!
+[2023.06.04 02:13:43] Message Info: bad message notification received (error_code 33) for msg_id = 7240617407647855972, seq_no = 964
+[2023.06.04 02:13:43] Message Info: bad message notification received, msgId 7240617407647855972, error_code 33
+[2023.06.04 02:13:56] Skipping message, because it is already in blocks!
+[2023.06.04 02:14:48] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:15:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240617901948509992, seq_no = 424
+[2023.06.04 02:15:38] Message Info: bad message notification received, msgId 7240617901948509992, error_code 33
+[2023.06.04 02:15:48] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:15:50] Audio Info: Closing audio playback device.
+[2023.06.04 02:16:13] RPC Error: request 48161 got fail with code 400, error WEBFILE_NOT_AVAILABLE
+[2023.06.04 02:16:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240618073381978428, seq_no = 246
+[2023.06.04 02:16:18] Message Info: bad message notification received, msgId 7240618073381978428, error_code 33
+[2023.06.04 02:16:19] Skipping message, because it is already in blocks!
+[2023.06.04 02:16:26] Message Info: bad message notification received (error_code 33) for msg_id = 7240618107606232608, seq_no = 46
+[2023.06.04 02:16:26] Message Info: bad message notification received, msgId 7240618107606232608, error_code 33
+[2023.06.04 02:16:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240618159656266780, seq_no = 46
+[2023.06.04 02:17:27] Message Info: bad message notification received (error_code 33) for msg_id = 7240618370258298856, seq_no = 237
+[2023.06.04 02:17:27] Message Info: bad message notification received, msgId 7240618370258298856, error_code 33
+[2023.06.04 02:18:21] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:18:23] Audio Info: Closing audio playback device.
+[2023.06.04 02:18:25] Message Info: bad message notification received (error_code 33) for msg_id = 7240618618731878980, seq_no = 296
+[2023.06.04 02:18:25] Message Info: bad message notification received, msgId 7240618618731878980, error_code 33
+[2023.06.04 02:18:30] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:18:32] Message Info: bad message notification received (error_code 33) for msg_id = 7240618648735725868, seq_no = 60
+[2023.06.04 02:18:32] Message Info: bad message notification received, msgId 7240618648735725868, error_code 33
+[2023.06.04 02:18:32] Audio Info: Closing audio playback device.
+[2023.06.04 02:18:45] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:18:47] Audio Info: Closing audio playback device.
+[2023.06.04 02:19:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240618910611301476, seq_no = 276
+[2023.06.04 02:19:33] Message Info: bad message notification received (error_code 33) for msg_id = 7240618910785100704, seq_no = 280
+[2023.06.04 02:19:33] Message Info: bad message notification received, msgId 7240618910785100704, error_code 33
+[2023.06.04 02:19:52] Message Info: bad message notification received (error_code 33) for msg_id = 7240618992318089620, seq_no = 116
+[2023.06.04 02:19:52] Message Info: bad message notification received, msgId 7240618992318089620, error_code 33
+[2023.06.04 02:19:55] Message Info: bad message notification received (error_code 33) for msg_id = 7240619005100473992, seq_no = 18
+[2023.06.04 02:19:55] Message Info: bad message notification received (error_code 33) for msg_id = 7240619005281287652, seq_no = 20
+[2023.06.04 02:19:55] Message Info: bad message notification received, msgId 7240619005281287652, error_code 33
+[2023.06.04 02:21:05] Message Info: bad message notification received (error_code 33) for msg_id = 7240619307748938200, seq_no = 260
+[2023.06.04 02:21:29] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:21:31] Audio Info: Closing audio playback device.
+[2023.06.04 02:21:43] Skipping message, because it is already in blocks!
+[2023.06.04 02:22:08] Skipping message, because it is already in blocks!
+[2023.06.04 02:22:22] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:22:25] Audio Info: Closing audio playback device.
+[2023.06.04 02:23:07] Message Info: bad message notification received (error_code 33) for msg_id = 7240619829948075976, seq_no = 908
+[2023.06.04 02:23:07] Message Info: bad message notification received, msgId 7240619829948075976, error_code 33
+[2023.06.04 02:23:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:23:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:23:09] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:23:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:23:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:23:11] Audio Info: Closing audio playback device.
+[2023.06.04 02:23:12] Message Info: bad message notification received (error_code 33) for msg_id = 7240619851973611188, seq_no = 80
+[2023.06.04 02:23:12] Message Info: bad message notification received, msgId 7240619851973611188, error_code 33
+[2023.06.04 02:23:18] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:23:19] Message Info: bad message notification received (error_code 33) for msg_id = 7240619881522318884, seq_no = 172
+[2023.06.04 02:23:19] Message Info: bad message notification received, msgId 7240619881522318884, error_code 33
+[2023.06.04 02:23:20] Message Info: bad message notification received (error_code 33) for msg_id = 7240619885854525164, seq_no = 10
+[2023.06.04 02:23:20] Message Info: bad message notification received, msgId 7240619885854525164, error_code 33
+[2023.06.04 02:23:21] Audio Info: Closing audio playback device.
+[2023.06.04 02:23:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:23:42] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:23:45] Audio Info: Closing audio playback device.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:48] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:49] RPC Error: request 49451 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 02:23:49] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:50] App Error: Can't read history till unknown local message.
+[2023.06.04 02:23:56] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:23:58] Audio Info: Closing audio playback device.
+[2023.06.04 02:24:02] RPC Error: request 49525 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 02:24:03] RPC Error: request 49530 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:07] App Error: Can't read history till unknown local message.
+[2023.06.04 02:24:09] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:24:14] Audio Info: Closing audio playback device.
+[2023.06.04 02:24:23] RPC Error: request 49762 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:27] Skipping message, because it is already in blocks!
+[2023.06.04 02:24:32] RPC Error: request 49802 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 02:24:40] RPC Error: request 49850 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49848 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49855 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49853 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49852 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49851 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49849 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:40] RPC Error: request 49854 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:41] RPC Error: request 49879 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:41] RPC Error: request 49880 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:41] RPC Error: request 49881 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:41] RPC Error: request 49883 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:24:41] RPC Error: request 49882 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:25:05] Skipping message, because it is already in blocks!
+[2023.06.04 02:25:49] Skipping message, because it is already in blocks!
+[2023.06.04 02:26:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240620620009493808, seq_no = 1244
+[2023.06.04 02:26:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240620620037123352, seq_no = 1246
+[2023.06.04 02:26:11] Message Info: bad message notification received, msgId 7240620620037123352, error_code 33
+[2023.06.04 02:26:27] Message Info: bad message notification received (error_code 33) for msg_id = 7240620688870954228, seq_no = 126
+[2023.06.04 02:26:27] Message Info: bad message notification received, msgId 7240620688870954228, error_code 33
+[2023.06.04 02:26:29] Message Info: bad message notification received (error_code 33) for msg_id = 7240620697442249104, seq_no = 38
+[2023.06.04 02:26:29] Message Info: bad message notification received, msgId 7240620697442249104, error_code 33
+[2023.06.04 02:26:38] Message Info: bad message notification received (error_code 33) for msg_id = 7240620731842503940, seq_no = 126
+[2023.06.04 02:26:38] Message Info: bad message notification received, msgId 7240620731842503940, error_code 33
+[2023.06.04 02:27:15] Message Info: bad message notification received (error_code 33) for msg_id = 7240620895300129388, seq_no = 202
+[2023.06.04 02:27:15] Message Info: bad message notification received, msgId 7240620895300129388, error_code 33
+[2023.06.04 02:27:17] Message Info: bad message notification received (error_code 33) for msg_id = 7240620903659577816, seq_no = 34
+[2023.06.04 02:27:17] Message Info: bad message notification received, msgId 7240620903659577816, error_code 33
+[2023.06.04 02:27:40] Skipping message, because it is already in blocks!
+[2023.06.04 02:27:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:27:45] Audio Info: Closing audio playback device.
+[2023.06.04 02:30:34] Skipping message, because it is already in blocks!
+[2023.06.04 02:30:34] Skipping message, because it is already in blocks!
+[2023.06.04 02:30:34] Skipping message, because it is already in blocks!
+[2023.06.04 02:30:56] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:31:00] Audio Info: Closing audio playback device.
+[2023.06.04 02:31:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:31:10] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:31:18] Skipping message, because it is already in blocks!
+[2023.06.04 02:31:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:31:33] Audio Info: Closing audio playback device.
+[2023.06.04 02:31:49] Skipping message, because it is already in blocks!
+[2023.06.04 02:32:27] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:32:28] Skipping message, because it is already in blocks!
+[2023.06.04 02:32:29] Audio Info: Closing audio playback device.
+[2023.06.04 02:32:58] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:32:58] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:33:03] Skipping message, because it is already in blocks!
+[2023.06.04 02:33:50] Message Info: bad message notification received (error_code 33) for msg_id = 7240622592561644580, seq_no = 1762
+[2023.06.04 02:34:15] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:34:16] Message Info: bad message notification received (error_code 33) for msg_id = 7240622703747270352, seq_no = 1910
+[2023.06.04 02:34:16] Message Info: bad message notification received, msgId 7240622703747270352, error_code 33
+[2023.06.04 02:34:17] Audio Info: Closing audio playback device.
+[2023.06.04 02:34:19] Message Info: bad message notification received (error_code 33) for msg_id = 7240622715952069136, seq_no = 34
+[2023.06.04 02:34:28] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:34:30] Audio Info: Closing audio playback device.
+[2023.06.04 02:36:19] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:19] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:20] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:20] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:20] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:20] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:36:23] Message Info: bad message notification received (error_code 33) for msg_id = 7240623248709387632, seq_no = 464
+[2023.06.04 02:36:23] Message Info: bad message notification received, msgId 7240623248709387632, error_code 33
+[2023.06.04 02:36:52] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:36:54] Audio Info: Closing audio playback device.
+[2023.06.04 02:37:26] Skipping message, because it is already in blocks!
+[2023.06.04 02:38:11] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:38:16] Skipping message, because it is already in blocks!
+[2023.06.04 02:38:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:38:49] Audio Info: Closing audio playback device.
+[2023.06.04 02:39:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240623970220220488, seq_no = 790
+[2023.06.04 02:39:11] Message Info: bad message notification received, msgId 7240623970220220488, error_code 33
+[2023.06.04 02:39:18] Message Info: bad message notification received (error_code 33) for msg_id = 7240624000386058580, seq_no = 58
+[2023.06.04 02:39:18] Message Info: bad message notification received, msgId 7240624000386058580, error_code 33
+[2023.06.04 02:40:00] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:40:09] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:40:31] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:40:33] Audio Info: Closing audio playback device.
+[2023.06.04 02:40:43] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:40:45] Audio Info: Closing audio playback device.
+[2023.06.04 02:40:46] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:40:48] Audio Info: Closing audio playback device.
+[2023.06.04 02:40:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:40:52] Audio Info: Closing audio playback device.
+[2023.06.04 02:41:11] Message Info: bad message notification received (error_code 33) for msg_id = 7240624482947236332, seq_no = 642
+[2023.06.04 02:41:11] Message Info: bad message notification received, msgId 7240624482947236332, error_code 33
+[2023.06.04 02:41:19] Skipping message, because it is already in blocks!
+[2023.06.04 02:41:54] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:41:55] RPC Error: request 52633 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:42:17] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:43:09] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:43:11] Audio Info: Closing audio playback device.
+[2023.06.04 02:43:14] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:43:16] Audio Info: Closing audio playback device.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:08] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:44:29] Skipping message, because it is already in blocks!
+[2023.06.04 02:44:46] Message Info: bad message notification received (error_code 33) for msg_id = 7240625409033097812, seq_no = 1110
+[2023.06.04 02:44:46] Message Info: bad message notification received, msgId 7240625409033097812, error_code 33
+[2023.06.04 02:44:53] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:45:01] Message Info: bad message notification received (error_code 33) for msg_id = 7240625473321026920, seq_no = 120
+[2023.06.04 02:46:04] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:46:06] Audio Info: Closing audio playback device.
+[2023.06.04 02:46:22] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:46:24] Audio Info: Closing audio playback device.
+[2023.06.04 02:46:52] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:46:54] Audio Info: Closing audio playback device.
+[2023.06.04 02:46:54] Message Info: bad message notification received (error_code 33) for msg_id = 7240625958810076224, seq_no = 520
+[2023.06.04 02:46:54] Message Info: bad message notification received (error_code 33) for msg_id = 7240625959309411824, seq_no = 522
+[2023.06.04 02:46:54] Message Info: bad message notification received, msgId 7240625959309411824, error_code 33
+[2023.06.04 02:46:59] Message Info: bad message notification received (error_code 33) for msg_id = 7240625977120366780, seq_no = 42
+[2023.06.04 02:46:59] Message Info: bad message notification received, msgId 7240625977120366780, error_code 33
+[2023.06.04 02:47:04] Message Info: bad message notification received (error_code 33) for msg_id = 7240625997462363808, seq_no = 36
+[2023.06.04 02:47:04] Message Info: bad message notification received, msgId 7240625997462363808, error_code 33
+[2023.06.04 02:47:46] Skipping message, because it is already in blocks!
+[2023.06.04 02:48:38] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:48:39] Message Info: bad message notification received (error_code 33) for msg_id = 7240626410087079316, seq_no = 468
+[2023.06.04 02:48:39] Message Info: bad message notification received, msgId 7240626410087079316, error_code 33
+[2023.06.04 02:48:46] Message Info: bad message notification received (error_code 33) for msg_id = 7240626439941770232, seq_no = 62
+[2023.06.04 02:48:46] Message Info: bad message notification received, msgId 7240626439941770232, error_code 33
+[2023.06.04 02:48:58] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:48:59] API Warning: not loaded minimal channel applied.
+[2023.06.04 02:49:00] Audio Info: Closing audio playback device.
+[2023.06.04 02:49:35] Skipping message, because it is already in blocks!
+[2023.06.04 02:49:44] Message Info: bad message notification received (error_code 33) for msg_id = 7240626688798879184, seq_no = 288
+[2023.06.04 02:49:44] Message Info: bad message notification received, msgId 7240626688798879184, error_code 33
+[2023.06.04 02:49:47] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:49:49] Audio Info: Closing audio playback device.
+[2023.06.04 02:50:32] Skipping message, because it is already in blocks!
+[2023.06.04 02:50:37] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:50:39] Audio Info: Closing audio playback device.
+[2023.06.04 02:50:55] Message Info: bad message notification received (error_code 33) for msg_id = 7240626993794357176, seq_no = 300
+[2023.06.04 02:52:54] Skipping message, because it is already in blocks!
+[2023.06.04 02:53:05] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:53:07] Audio Info: Closing audio playback device.
+[2023.06.04 02:53:21] RPC Error: request 54322 got fail with code 400, error FILE_REFERENCE_EXPIRED
+[2023.06.04 02:55:13] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:55:15] Audio Info: Closing audio playback device.
+[2023.06.04 02:56:13] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:56:15] Audio Info: Closing audio playback device.
+[2023.06.04 02:57:02] Skipping message, because it is already in blocks!
+[2023.06.04 02:57:04] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 02:57:06] Audio Info: Closing audio playback device.
+[2023.06.04 02:57:10] Skipping message, because it is already in blocks!
+[2023.06.04 03:00:03] Message Info: bad message notification received (error_code 33) for msg_id = 7240629344823479108, seq_no = 2756
+[2023.06.04 03:00:03] Message Info: bad message notification received, msgId 7240629344823479108, error_code 33
+[2023.06.04 03:00:20] Skipping message, because it is already in blocks!
+[2023.06.04 03:00:34] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:00:36] Audio Info: Closing audio playback device.
+[2023.06.04 03:00:46] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:00:48] Audio Info: Closing audio playback device.
+[2023.06.04 03:00:54] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:00:56] Audio Info: Closing audio playback device.
+[2023.06.04 03:01:11] Skipping message, because it is already in blocks!
+[2023.06.04 03:02:04] Message Info: bad message notification received (error_code 33) for msg_id = 7240629867402651644, seq_no = 606
+[2023.06.04 03:02:04] Message Info: bad message notification received, msgId 7240629867402651644, error_code 33
+[2023.06.04 03:02:32] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:32] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:33] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:02:55] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:04:18] Skipping message, because it is already in blocks!
+[2023.06.04 03:05:29] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:05:31] Audio Info: Closing audio playback device.
+[2023.06.04 03:05:47] Message Info: bad message notification received (error_code 33) for msg_id = 7240630824991019064, seq_no = 1086
+[2023.06.04 03:05:47] Message Info: bad message notification received, msgId 7240630824991019064, error_code 33
+[2023.06.04 03:05:51] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:05:53] Audio Info: Closing audio playback device.
+[2023.06.04 03:06:02] RPC Error: request 56175 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 03:06:12] API Warning: not loaded minimal channel applied.
+[2023.06.04 03:07:11] Skipping message, because it is already in blocks!
+[2023.06.04 03:07:23] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:07:26] Audio Info: Closing audio playback device.
+[2023.06.04 03:07:41] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:07:50] Audio Info: Closing audio playback device.
+[2023.06.04 03:07:50] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:07:52] Audio Info: Closing audio playback device.
+[2023.06.04 03:08:03] Skipping message, because it is already in blocks!
+[2023.06.04 03:08:03] Skipping message, because it is already in blocks!
+[2023.06.04 03:08:10] RPC Error: request 56723 got fail with code 400, error PEER_ID_INVALID
+[2023.06.04 03:08:14] Audio Info: recreating audio device and reattaching the tracks
+[2023.06.04 03:08:16] Audio Info: Closing audio playback device.
